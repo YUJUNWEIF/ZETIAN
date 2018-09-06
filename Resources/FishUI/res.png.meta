@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 25af1db8ed5d5e7439a8a8fcb57ccb9c
+timeCreated: 1512120884
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: .png
+    21300002: 1.png
+    21300004: 2.png
+    21300006: 3.png
+    21300008: 4.png
+    21300010: 5.png
+    21300012: coin.png
+    21300014: diamond.png
+    21300016: "\u4F4E\u7EA7\u5347\u661F.png"
+    21300018: "\u58F0\u671B.png"
+    21300020: "\u5929\u8D4B\u70B9.png"
+    21300022: "\u6C14\u77FF.png"
+    21300024: "\u6C34\u6676.png"
+    21300026: "\u793C\u5305.png"
+    21300028: "\u79EF\u5206.png"
+    21300030: "\u7ECF\u9A8C\u996E\u65991.png"
+    21300032: "\u7ECF\u9A8C\u996E\u65992.png"
+    21300034: "\u7ECF\u9A8C\u996E\u65993.png"
+    21300036: "\u7ECF\u9A8C\u996E\u65994.png"
+    21300038: "\u7ECF\u9A8C\u996E\u65995.png"
+    21300040: "\u80FD\u91CF\u77F3.png"
+    21300042: "\u9AD8\u7EA7\u5347\u661F.png"
+    21300044: Gexp.png
+    21300046: GexpUp.png
+    21300048: gold.png
+    21300050: Pexp.png
+    21300052: PexpUp.png
+    21300054: Rexp.png
+    21300056: RexpUp.png
+    21300058: RexpUp1.png
+    21300060: RexpUp2.png
+    21300062: RexpUp3.png
+    21300064: RexpUp4.png
+    21300066: "\u91D1\u5E01.png"
+    21300068: "\u94BB\u77F3.png"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coin.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: diamond.png
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 718
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u4F4E\u7EA7\u5347\u661F.png"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 718
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u58F0\u671B.png"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u5929\u8D4B\u70B9.png"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 450
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u6C14\u77FF.png"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 718
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u6C34\u6676.png"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u793C\u5305.png"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 530
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 42, y: 49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u79EF\u5206.png"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u7ECF\u9A8C\u996E\u65991.png"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u7ECF\u9A8C\u996E\u65992.png"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u7ECF\u9A8C\u996E\u65993.png"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u7ECF\u9A8C\u996E\u65994.png"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 922
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u7ECF\u9A8C\u996E\u65995.png"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 922
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u80FD\u91CF\u77F3.png"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u9AD8\u7EA7\u5347\u661F.png"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 922
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Gexp.png
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 514
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: GexpUp.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 514
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gold.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 718
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pexp.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 514
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PexpUp.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 514
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Rexp.png
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RexpUp.png
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RexpUp1.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RexpUp2.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RexpUp3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RexpUp4.png
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 718
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u91D1\u5E01.png"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 922
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "\u94BB\u77F3.png"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 922
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

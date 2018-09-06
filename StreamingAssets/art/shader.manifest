@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1604153720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5305c4ffa120b8f5c76a30cfa0daf230
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc7b69794a2bdada249e557ebbfded10
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Shader/TextOutline.shader
+- Assets/Resources/Shader/3DTextShader.shader
+- Assets/Resources/Shader/TexSprite.shader
+- Assets/Resources/Shader/NightLight.shader
+- Assets/Resources/Shader/Swirl.Shader
+- Assets/Resources/Shader/GodRayOptimize.shader
+- Assets/Resources/Shader/effect_distortadd noztest.shader
+- Assets/Resources/Shader/TextShadow.shader
+- Assets/Resources/Shader/RapidBlurEffect.shader
+- Assets/Resources/Shader/UVDiff.shader
+- Assets/Resources/Shader/xf_heat_distortion.shader
+- Assets/Resources/Shader/UIShader.shader
+- Assets/Resources/Shader/Reflective.shader
+- Assets/Resources/Shader/daoguang.shader
+- Assets/Resources/Shader/RimLightSpce.shader
+- Assets/Resources/Shader/effect_Distort.shader
+- Assets/Resources/Shader/Wave.shader
+- Assets/Resources/Shader/Transparent.shader
+- Assets/Resources/Shader/DistortEffect.shader
+- Assets/Resources/Shader/FontEffect.shader
+- Assets/Resources/Shader/GrayFunc.shader
+- Assets/Resources/Shader/Guide.shader
+- Assets/Resources/Shader/FlashShader.shader
+- Assets/Resources/Shader/TwistImageEffect.shader
+- Assets/Resources/Shader/UV.shader
+- Assets/Resources/Shader/Twist__.shader
+- Assets/Resources/Shader/ArmyDiffuse.shader
+- Assets/Resources/Shader/GuangYun.shader
+- Assets/Resources/Shader/Dissolve_Simple.shader
+- Assets/Resources/Shader/ArmyAppearDispear.shader
+- Assets/Resources/Shader/WaterWave.shader
+- Assets/Resources/Shader/DistortPostEffect.shader
+Dependencies: []

@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: f5efec9a4102acf4e8c19a38ace7d887
+timeCreated: 1510139387
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: egg101.png
+    21300002: egg102.png
+    21300004: egg103.png
+    21300006: egg104.png
+    21300008: egg105.png
+    21300010: egg106.png
+    21300012: egg107.png
+    21300014: egg108.png
+    21300016: egg109.png
+    21300018: egg110.png
+    21300020: egg111.png
+    21300022: egg112.png
+    21300024: egg113.png
+    21300026: egg114.png
+    21300028: egg115.png
+    21300030: egg201.png
+    21300032: egg202.png
+    21300034: egg203.png
+    21300036: egg204.png
+    21300038: egg205.png
+    21300040: egg206.png
+    21300042: egg207.png
+    21300044: egg208.png
+    21300046: egg209.png
+    21300048: egg210.png
+    21300050: egg211.png
+    21300052: egg212.png
+    21300054: egg213.png
+    21300056: egg214.png
+    21300058: egg215.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: egg101.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg102.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 449
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg103.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 449
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg104.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 449
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg105.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg106.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg107.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 387
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg108.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 386
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg109.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg110.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg111.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg112.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 323
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg113.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 323
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg114.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 325
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 24, y: 30.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg115.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 317
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 27.5, y: 34.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg201.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg202.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 254
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg203.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 254
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg204.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 256
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 25, y: 30.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg205.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 254
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 25, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg206.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg207.png
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 190
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 25, y: 32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg208.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg209.png
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 25, y: 31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg210.png
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 193
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 25, y: 30.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg211.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 27.5, y: 34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg212.png
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 27.5, y: 34.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg213.png
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 121
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 27.5, y: 34.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg214.png
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 123
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 27.5, y: 33.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: egg215.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 27.5, y: 34.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

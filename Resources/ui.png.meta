@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: 1f0bc8fe14fbb9d41812c6dcf4eb783c
+timeCreated: 1532403940
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anniu_ycck_0.png
+    21300002: anniu_ycck_1.png
+    21300004: cw_chongwutouxiang_hui.png
+    21300006: cw_tb_chuzhan.png
+    21300008: cw_tb_jiazu.png
+    21300010: cw_ty_db_upgrade.png
+    21300012: dl_anniu_hqyzm_0.png
+    21300014: dl_anniu_hqyzm_1.png
+    21300016: dl_gx_kuang.png
+    21300018: dl_gx_xieyi.png
+    21300020: dl_shurukuang.png
+    21300022: jcxz_jindu.png
+    21300024: jcxz_jindu_db.png
+    21300026: jcxz_tb_shiyongzhong.png
+    21300028: jcxz_tb_shu.png
+    21300030: jcxz_xuanzhong.png
+    21300032: pve_zanting.png
+    21300034: pve-danci_xx.png
+    21300036: pve-danci_xx_hui.png
+    21300038: pvp_db_daojishi.png
+    21300040: PVP_win.png
+    21300042: pvp_zd_danci.png
+    21300044: pvp_zd_danci_sm_1.png
+    21300046: pvp_zd_danci_zm_0.png
+    21300048: pvp_zd_tbdb.png
+    21300050: qd_keling.png
+    21300052: sd_di_DB.png
+    21300054: sd_maiwan.png
+    21300056: sj_add.png
+    21300058: sj_anniu_add_0.png
+    21300060: sj_anniu_add_1.png
+    21300062: sj_anniu_sou_0.png
+    21300064: sj_anniu_sou_1.png
+    21300066: sj_anniu_uanzheng_0.png
+    21300068: sj_anniu_yanzheng_1.png
+    21300070: sj_emoji.png
+    21300072: sj_player_icon_S.png
+    21300074: sj_reject.png
+    21300076: sj_shurukuang_L.png
+    21300078: sj_shurukuang_S.png
+    21300080: sj_tb_banji.png
+    21300082: sj_tb_shijie.png
+    21300084: sj_tb_yitianqian.png
+    21300086: sj_tb_youjian.png
+    21300088: sj_tb_zaixian.png
+    21300090: sj_youjian_k.png
+    21300092: ty_anniu_0.png
+    21300094: ty_anniu_1.png
+    21300096: ty_anniu_S_0.png
+    21300098: ty_anniu_S_1.png
+    21300100: ty_chongwu_xx_hui_S.png
+    21300102: ty_chongwu_xx_L.png
+    21300104: ty_chongwu_xx_S.png
+    21300106: ty_db.png
+    21300108: ty_db_hui.png
+    21300110: ty_di_tb_xuanzhong.png
+    21300112: ty_dj_hui.png
+    21300114: ty_dzdj_hbdb_S.png
+    21300116: ty_fgx.png
+    21300118: ty_fgx_jiantou_L.png
+    21300120: ty_fgx_jiantou_S.png
+    21300122: ty_hanjian_L.png
+    21300124: ty_hanjian_S.png
+    21300126: ty_huobi_shf_L.png
+    21300128: ty_huobi_shf_S.png
+    21300130: ty_huobi_ykt_L.png
+    21300132: ty_huobi_ykt_S.png
+    21300134: ty_jiantou_L.png
+    21300136: ty_tb_chongwutouxiang.png
+    21300138: ty_tb_dj.png
+    21300140: ty_tb_guaiwu.png
+    21300142: ty_tb_jn.png
+    21300144: ty_zhezhao_db_jiesuan.png
+    21300146: zjm_anniu_ax_da.png
+    21300148: zjm_hbdb.png
+    21300150: zjm_jingyan_db.png
+    21300152: zjm_jingyan_tiao.png
+    21300154: zjm_player_db.png
+    21300156: zjm_player_dengji.png
+    21300158: zjm_player_icon.png
+    21300160: zjm_shengyin.png
+    21300162: zjm_shengyin_anniu.png
+    21300164: zjm_shengyin_tj.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anniu_ycck_0.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 686
+        width: 100
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: anniu_ycck_1.png
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1654
+        width: 231
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cw_chongwutouxiang_hui.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1082
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cw_tb_chuzhan.png
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 535
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cw_tb_jiazu.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 877
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cw_ty_db_upgrade.png
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1230
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dl_anniu_hqyzm_0.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 686
+        width: 100
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dl_anniu_hqyzm_1.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 94
+        width: 231
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dl_gx_kuang.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 58
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dl_gx_xieyi.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dl_shurukuang.png
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 53
+        width: 82
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 15, z: 10, w: 15}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jcxz_jindu.png
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1128
+        width: 30
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jcxz_jindu_db.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1838
+        width: 320
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jcxz_tb_shiyongzhong.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1075
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jcxz_tb_shu.png
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 548
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jcxz_xuanzhong.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 56
+        width: 120
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pve_zanting.png
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 97
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pve-danci_xx.png
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 10
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pve-danci_xx_hui.png
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pvp_db_daojishi.png
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1023
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: PVP_win.png
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 634
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pvp_zd_danci.png
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 378
+        width: 606
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pvp_zd_danci_sm_1.png
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1634
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pvp_zd_danci_zm_0.png
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1706
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pvp_zd_tbdb.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1752
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: qd_keling.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1436
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sd_di_DB.png
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 821
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sd_maiwan.png
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1192
+        width: 199
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_add.png
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 998
+        width: 151
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_anniu_add_0.png
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1503
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_anniu_add_1.png
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_anniu_sou_0.png
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1614
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_anniu_sou_1.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 719
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_anniu_uanzheng_0.png
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1503
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_anniu_yanzheng_1.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 918
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_emoji.png
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 578
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_player_icon_S.png
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1173
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_reject.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 939
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_shurukuang_L.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1876
+        width: 992
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_shurukuang_S.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 680
+        width: 62
+        height: 846
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_tb_banji.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 830
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_tb_shijie.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 830
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_tb_yitianqian.png
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 535
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_tb_youjian.png
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1173
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_tb_zaixian.png
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1776
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sj_youjian_k.png
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1283
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_anniu_0.png
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 706
+        width: 120
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_anniu_1.png
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1736
+        width: 400
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_anniu_S_0.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1480
+        width: 120
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_anniu_S_1.png
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1484
+        width: 100
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_chongwu_xx_hui_S.png
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_chongwu_xx_L.png
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_chongwu_xx_S.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 57
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_db.png
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1442
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_db_hui.png
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1963
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_di_tb_xuanzhong.png
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_dj_hui.png
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 969
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_dzdj_hbdb_S.png
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 6
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_fgx.png
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 530
+        width: 6
+        height: 1431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_fgx_jiantou_L.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 743
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_fgx_jiantou_S.png
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_hanjian_L.png
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1778
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_hanjian_S.png
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1975
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_huobi_shf_L.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1528
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_huobi_shf_S.png
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 10
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_huobi_ykt_L.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1595
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_huobi_ykt_S.png
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 52
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_jiantou_L.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 537
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_tb_chongwutouxiang.png
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1393
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_tb_dj.png
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 534
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_tb_guaiwu.png
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 979
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_tb_jn.png
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 830
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ty_zhezhao_db_jiesuan.png
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1963
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_anniu_ax_da.png
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 97
+        width: 130
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_hbdb.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1134
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_jingyan_db.png
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1838
+        width: 402
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_jingyan_tiao.png
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1282
+        width: 30
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_player_db.png
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 176
+        width: 602
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_player_dengji.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1662
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_player_icon.png
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 14
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_shengyin.png
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1071
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_shengyin_anniu.png
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zjm_shengyin_tj.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 36
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

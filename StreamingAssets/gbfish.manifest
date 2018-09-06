@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 732103530
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: art/shader.unity3d
+      Dependencies: {}

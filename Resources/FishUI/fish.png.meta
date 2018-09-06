@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 506e14755c30c4547abcda0054ac4b09
+timeCreated: 1512619033
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fish
+    21300002: fish1.png
+    21300004: fish10.png
+    21300006: fish11.png
+    21300008: fish12.png
+    21300010: fish13.png
+    21300012: fish14.png
+    21300014: fish15.png
+    21300016: fish16.png
+    21300018: fish17.png
+    21300020: fish18.png
+    21300022: fish19.png
+    21300024: fish2.png
+    21300026: fish3.png
+    21300028: fish4.png
+    21300030: fish5.png
+    21300032: fish6.png
+    21300034: fish7.png
+    21300036: fish8.png
+    21300038: fish9.png
+    21300040: fish101.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish10.png
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 290
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish12.png
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 290
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish13.png
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish101.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 50, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish11.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 47.5, y: 47.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish14.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish15.png
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 290
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish2.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 364
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish3.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 364
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish4.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 417
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 47.5, y: 47.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish5.png
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 343
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish6.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 364
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish7.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 438
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish8.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 438
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: fish9.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 438
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 47.5, y: 37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

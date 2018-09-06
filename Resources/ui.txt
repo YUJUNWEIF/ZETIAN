@@ -1,0 +1,676 @@
+{"frames": {
+
+"PVP_win.png":
+{
+	"frame": {"x":592,"y":1229,"w":185,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":185},
+	"sourceSize": {"w":185,"h":185}
+},
+"anniu_ycck_0.png":
+{
+	"frame": {"x":104,"y":1111,"w":251,"h":100},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":100},
+	"sourceSize": {"w":251,"h":100}
+},
+"anniu_ycck_1.png":
+{
+	"frame": {"x":636,"y":314,"w":231,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":80},
+	"sourceSize": {"w":231,"h":80}
+},
+"cw_chongwutouxiang_hui.png":
+{
+	"frame": {"x":490,"y":858,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"cw_tb_chuzhan.png":
+{
+	"frame": {"x":529,"y":1472,"w":98,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":41},
+	"sourceSize": {"w":98,"h":41}
+},
+"cw_tb_jiazu.png":
+{
+	"frame": {"x":490,"y":1071,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"cw_ty_db_upgrade.png":
+{
+	"frame": {"x":629,"y":608,"w":210,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":210},
+	"sourceSize": {"w":210,"h":210}
+},
+"dl_anniu_hqyzm_0.png":
+{
+	"frame": {"x":2,"y":1111,"w":251,"h":100},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":100},
+	"sourceSize": {"w":251,"h":100}
+},
+"dl_anniu_hqyzm_1.png":
+{
+	"frame": {"x":785,"y":1874,"w":231,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":231,"h":80},
+	"sourceSize": {"w":231,"h":80}
+},
+"dl_gx_kuang.png":
+{
+	"frame": {"x":284,"y":1953,"w":37,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":37},
+	"sourceSize": {"w":37,"h":37}
+},
+"dl_gx_xieyi.png":
+{
+	"frame": {"x":140,"y":1994,"w":45,"h":36},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":36},
+	"sourceSize": {"w":45,"h":36}
+},
+"dl_shurukuang.png":
+{
+	"frame": {"x":40,"y":1520,"w":475,"h":82},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":475,"h":82},
+	"sourceSize": {"w":475,"h":82}
+},
+"jcxz_jindu.png":
+{
+	"frame": {"x":378,"y":768,"w":152,"h":30},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":30},
+	"sourceSize": {"w":152,"h":30}
+},
+"jcxz_jindu_db.png":
+{
+	"frame": {"x":2,"y":174,"w":320,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":36},
+	"sourceSize": {"w":320,"h":36}
+},
+"jcxz_tb_shiyongzhong.png":
+{
+	"frame": {"x":2,"y":916,"w":137,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":57},
+	"sourceSize": {"w":137,"h":57}
+},
+"jcxz_tb_shu.png":
+{
+	"frame": {"x":297,"y":1370,"w":130,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":130},
+	"sourceSize": {"w":130,"h":130}
+},
+"jcxz_xuanzhong.png":
+{
+	"frame": {"x":124,"y":1520,"w":472,"h":120},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":472,"h":120},
+	"sourceSize": {"w":472,"h":120}
+},
+"pve-danci_xx.png":
+{
+	"frame": {"x":222,"y":1994,"w":44,"h":42},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":42},
+	"sourceSize": {"w":44,"h":42}
+},
+"pve-danci_xx_hui.png":
+{
+	"frame": {"x":178,"y":1994,"w":44,"h":42},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":42},
+	"sourceSize": {"w":44,"h":42}
+},
+"pve_zanting.png":
+{
+	"frame": {"x":378,"y":1874,"w":71,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":77},
+	"sourceSize": {"w":71,"h":77}
+},
+"pvp_db_daojishi.png":
+{
+	"frame": {"x":629,"y":820,"w":205,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":205},
+	"sourceSize": {"w":205,"h":205}
+},
+"pvp_zd_danci.png":
+{
+	"frame": {"x":415,"y":1520,"w":606,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":606,"h":150},
+	"sourceSize": {"w":606,"h":150}
+},
+"pvp_zd_danci_sm_1.png":
+{
+	"frame": {"x":378,"y":344,"w":32,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":70},
+	"sourceSize": {"w":32,"h":70}
+},
+"pvp_zd_danci_zm_0.png":
+{
+	"frame": {"x":378,"y":272,"w":32,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":70},
+	"sourceSize": {"w":32,"h":70}
+},
+"pvp_zd_tbdb.png":
+{
+	"frame": {"x":412,"y":174,"w":122,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":122},
+	"sourceSize": {"w":122,"h":122}
+},
+"qd_keling.png":
+{
+	"frame": {"x":2,"y":212,"w":300,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":400},
+	"sourceSize": {"w":300,"h":400}
+},
+"sd_di_DB.png":
+{
+	"frame": {"x":629,"y":1027,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"sd_maiwan.png":
+{
+	"frame": {"x":410,"y":570,"w":286,"h":199},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":199},
+	"sourceSize": {"w":286,"h":199}
+},
+"sj_add.png":
+{
+	"frame": {"x":145,"y":916,"w":151,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":134},
+	"sourceSize": {"w":151,"h":134}
+},
+"sj_anniu_add_0.png":
+{
+	"frame": {"x":848,"y":436,"w":109,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":109},
+	"sourceSize": {"w":109,"h":109}
+},
+"sj_anniu_add_1.png":
+{
+	"frame": {"x":785,"y":1956,"w":89,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":89},
+	"sourceSize": {"w":89,"h":89}
+},
+"sj_anniu_sou_0.png":
+{
+	"frame": {"x":869,"y":314,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"sj_anniu_sou_1.png":
+{
+	"frame": {"x":490,"y":1229,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"sj_anniu_uanzheng_0.png":
+{
+	"frame": {"x":848,"y":436,"w":109,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":109},
+	"sourceSize": {"w":109,"h":109}
+},
+"sj_anniu_yanzheng_1.png":
+{
+	"frame": {"x":206,"y":1052,"w":95,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":78},
+	"sourceSize": {"w":95,"h":78}
+},
+"sj_emoji.png":
+{
+	"frame": {"x":429,"y":1344,"w":126,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":126},
+	"sourceSize": {"w":126,"h":126}
+},
+"sj_player_icon_S.png":
+{
+	"frame": {"x":841,"y":767,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"sj_reject.png":
+{
+	"frame": {"x":2,"y":975,"w":134,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":134},
+	"sourceSize": {"w":134,"h":134}
+},
+"sj_shurukuang_L.png":
+{
+	"frame": {"x":2,"y":2,"w":992,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":992,"h":170},
+	"sourceSize": {"w":992,"h":170}
+},
+"sj_shurukuang_S.png":
+{
+	"frame": {"x":304,"y":522,"w":846,"h":62},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":846,"h":62},
+	"sourceSize": {"w":846,"h":62}
+},
+"sj_tb_banji.png":
+{
+	"frame": {"x":206,"y":1132,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"sj_tb_shijie.png":
+{
+	"frame": {"x":206,"y":1132,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"sj_tb_yitianqian.png":
+{
+	"frame": {"x":429,"y":1472,"w":98,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":41},
+	"sourceSize": {"w":98,"h":41}
+},
+"sj_tb_youjian.png":
+{
+	"frame": {"x":841,"y":767,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"sj_tb_zaixian.png":
+{
+	"frame": {"x":324,"y":174,"w":98,"h":41},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":41},
+	"sourceSize": {"w":98,"h":41}
+},
+"sj_youjian_k.png":
+{
+	"frame": {"x":841,"y":657,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"ty_anniu_0.png":
+{
+	"frame": {"x":368,"y":922,"w":420,"h":120},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":120},
+	"sourceSize": {"w":420,"h":120}
+},
+"ty_anniu_1.png":
+{
+	"frame": {"x":557,"y":212,"w":400,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":100},
+	"sourceSize": {"w":400,"h":100}
+},
+"ty_anniu_S_0.png":
+{
+	"frame": {"x":412,"y":298,"w":270,"h":120},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":120},
+	"sourceSize": {"w":270,"h":120}
+},
+"ty_anniu_S_1.png":
+{
+	"frame": {"x":534,"y":314,"w":250,"h":100},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":100},
+	"sourceSize": {"w":250,"h":100}
+},
+"ty_chongwu_xx_L.png":
+{
+	"frame": {"x":90,"y":1997,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"ty_chongwu_xx_S.png":
+{
+	"frame": {"x":246,"y":1953,"w":38,"h":36},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+	"sourceSize": {"w":38,"h":36}
+},
+"ty_chongwu_xx_hui_S.png":
+{
+	"frame": {"x":40,"y":1997,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"ty_db.png":
+{
+	"frame": {"x":636,"y":396,"w":210,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":210},
+	"sourceSize": {"w":210,"h":210}
+},
+"ty_db_hui.png":
+{
+	"frame": {"x":1008,"y":75,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+"ty_di_tb_xuanzhong.png":
+{
+	"frame": {"x":451,"y":1874,"w":170,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":170},
+	"sourceSize": {"w":170,"h":170}
+},
+"ty_dj_hui.png":
+{
+	"frame": {"x":836,"y":979,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ty_dzdj_hbdb_S.png":
+{
+	"frame": {"x":876,"y":1956,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"ty_fgx.png":
+{
+	"frame": {"x":996,"y":87,"w":1431,"h":6},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1431,"h":6},
+	"sourceSize": {"w":1431,"h":6}
+},
+"ty_fgx_jiantou_L.png":
+{
+	"frame": {"x":206,"y":1220,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+"ty_fgx_jiantou_S.png":
+{
+	"frame": {"x":266,"y":1993,"w":53,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":53},
+	"sourceSize": {"w":53,"h":53}
+},
+"ty_hanjian_L.png":
+{
+	"frame": {"x":378,"y":174,"w":96,"h":32},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":32},
+	"sourceSize": {"w":96,"h":32}
+},
+"ty_hanjian_S.png":
+{
+	"frame": {"x":996,"y":2,"w":71,"h":24},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":24},
+	"sourceSize": {"w":71,"h":24}
+},
+"ty_huobi_shf_L.png":
+{
+	"frame": {"x":304,"y":455,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"ty_huobi_shf_S.png":
+{
+	"frame": {"x":964,"y":1998,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ty_huobi_ykt_L.png":
+{
+	"frame": {"x":304,"y":388,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"ty_huobi_ykt_S.png":
+{
+	"frame": {"x":964,"y":1956,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ty_jiantou_L.png":
+{
+	"frame": {"x":2,"y":1370,"w":141,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":141},
+	"sourceSize": {"w":141,"h":141}
+},
+"ty_tb_chongwutouxiang.png":
+{
+	"frame": {"x":848,"y":547,"w":108,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":108},
+	"sourceSize": {"w":108,"h":108}
+},
+"ty_tb_dj.png":
+{
+	"frame": {"x":145,"y":1364,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"ty_tb_guaiwu.png":
+{
+	"frame": {"x":490,"y":968,"w":101,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":101},
+	"sourceSize": {"w":101,"h":101}
+},
+"ty_tb_jn.png":
+{
+	"frame": {"x":206,"y":1132,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"ty_zhezhao_db_jiesuan.png":
+{
+	"frame": {"x":996,"y":75,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+"zjm_anniu_ax_da.png":
+{
+	"frame": {"x":246,"y":1520,"w":431,"h":130},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":431,"h":130},
+	"sourceSize": {"w":431,"h":130}
+},
+"zjm_hbdb.png":
+{
+	"frame": {"x":2,"y":614,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+"zjm_jingyan_db.png":
+{
+	"frame": {"x":557,"y":174,"w":402,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":402,"h":36},
+	"sourceSize": {"w":402,"h":36}
+},
+"zjm_jingyan_tiao.png":
+{
+	"frame": {"x":378,"y":416,"w":350,"h":30},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":30},
+	"sourceSize": {"w":350,"h":30}
+},
+"zjm_player_db.png":
+{
+	"frame": {"x":415,"y":1672,"w":602,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":602,"h":200},
+	"sourceSize": {"w":602,"h":200}
+},
+"zjm_player_dengji.png":
+{
+	"frame": {"x":304,"y":274,"w":112,"h":66},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":66},
+	"sourceSize": {"w":112,"h":66}
+},
+"zjm_player_icon.png":
+{
+	"frame": {"x":623,"y":1874,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":160},
+	"sourceSize": {"w":160,"h":160}
+},
+"zjm_shengyin.png":
+{
+	"frame": {"x":836,"y":877,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"zjm_shengyin_anniu.png":
+{
+	"frame": {"x":323,"y":1953,"w":90,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
+	"sourceSize": {"w":90,"h":90}
+},
+"zjm_shengyin_tj.png":
+{
+	"frame": {"x":2,"y":1520,"w":521,"h":36},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":521,"h":36},
+	"sourceSize": {"w":521,"h":36}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8ba85345aea50bf4f79753785f9a786e:1/1$"
+}
+}

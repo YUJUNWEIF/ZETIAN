@@ -1,0 +1,140 @@
+{"frames": {
+
+"fish1.png":
+{
+	"frame": {"x":0,"y":243,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish10.png":
+{
+	"frame": {"x":380,"y":148,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish101.png":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":74},
+	"sourceSize": {"w":100,"h":74}
+},
+"fish11.png":
+{
+	"frame": {"x":0,"y":74,"w":95,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":95},
+	"sourceSize": {"w":95,"h":95}
+},
+"fish12.png":
+{
+	"frame": {"x":285,"y":148,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish13.png":
+{
+	"frame": {"x":95,"y":169,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish14.png":
+{
+	"frame": {"x":0,"y":169,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish15.png":
+{
+	"frame": {"x":190,"y":148,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish2.png":
+{
+	"frame": {"x":385,"y":74,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish3.png":
+{
+	"frame": {"x":290,"y":74,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish4.png":
+{
+	"frame": {"x":100,"y":0,"w":95,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":95},
+	"sourceSize": {"w":95,"h":95}
+},
+"fish5.png":
+{
+	"frame": {"x":95,"y":95,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish6.png":
+{
+	"frame": {"x":195,"y":74,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish7.png":
+{
+	"frame": {"x":385,"y":0,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish8.png":
+{
+	"frame": {"x":290,"y":0,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+},
+"fish9.png":
+{
+	"frame": {"x":195,"y":0,"w":95,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":74},
+	"sourceSize": {"w":95,"h":74}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "fish.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.41667",
+	"smartupdate": "$TexturePacker:SmartUpdate:8a534f05e3c5637c80385e51f4140868$"
+}
+}

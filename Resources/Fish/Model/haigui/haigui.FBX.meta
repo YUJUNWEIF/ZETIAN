@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 4c37da83c2d1772429702c881d19caf9
+timeCreated: 1504702398
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: body
+    100004: boody
+    100006: bozi
+    100008: eye_l
+    100010: eye_r
+    100012: //RootNode
+    100014: l1
+    100016: l2
+    100018: l3
+    100020: l4
+    100022: l5
+    100024: l6
+    100026: meimao_l
+    100028: meimao_r
+    100030: r1
+    100032: r2
+    100034: r3
+    100036: r4
+    100038: r5
+    100040: r6
+    100042: tou
+    100044: weiba1
+    100046: weiba2
+    100048: yanpi_l
+    100050: yanpi_r
+    400000: Bip01
+    400002: body
+    400004: boody
+    400006: bozi
+    400008: eye_l
+    400010: eye_r
+    400012: //RootNode
+    400014: l1
+    400016: l2
+    400018: l3
+    400020: l4
+    400022: l5
+    400024: l6
+    400026: meimao_l
+    400028: meimao_r
+    400030: r1
+    400032: r2
+    400034: r3
+    400036: r4
+    400038: r5
+    400040: r6
+    400042: tou
+    400044: weiba1
+    400046: weiba2
+    400048: yanpi_l
+    400050: yanpi_r
+    4300000: body
+    7400000: swim
+    7400002: die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: swim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/boody
+        weight: 1
+      - path: Bip01/bozi
+        weight: 1
+      - path: Bip01/bozi/tou
+        weight: 1
+      - path: Bip01/bozi/tou/eye_l
+        weight: 1
+      - path: Bip01/bozi/tou/eye_r
+        weight: 1
+      - path: Bip01/bozi/tou/meimao_l
+        weight: 1
+      - path: Bip01/bozi/tou/meimao_r
+        weight: 1
+      - path: Bip01/bozi/tou/yanpi_l
+        weight: 1
+      - path: Bip01/bozi/tou/yanpi_r
+        weight: 1
+      - path: Bip01/l1
+        weight: 1
+      - path: Bip01/l1/l2
+        weight: 1
+      - path: Bip01/l1/l2/l3
+        weight: 1
+      - path: Bip01/l4
+        weight: 1
+      - path: Bip01/l4/l5
+        weight: 1
+      - path: Bip01/l4/l5/l6
+        weight: 1
+      - path: Bip01/r1
+        weight: 1
+      - path: Bip01/r1/r2
+        weight: 1
+      - path: Bip01/r1/r2/r3
+        weight: 1
+      - path: Bip01/r4
+        weight: 1
+      - path: Bip01/r4/r5
+        weight: 1
+      - path: Bip01/r4/r5/r6
+        weight: 1
+      - path: Bip01/weiba1
+        weight: 1
+      - path: Bip01/weiba1/weiba2
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 531
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/boody
+        weight: 1
+      - path: Bip01/bozi
+        weight: 1
+      - path: Bip01/bozi/tou
+        weight: 1
+      - path: Bip01/bozi/tou/eye_l
+        weight: 1
+      - path: Bip01/bozi/tou/eye_r
+        weight: 1
+      - path: Bip01/bozi/tou/meimao_l
+        weight: 1
+      - path: Bip01/bozi/tou/meimao_r
+        weight: 1
+      - path: Bip01/bozi/tou/yanpi_l
+        weight: 1
+      - path: Bip01/bozi/tou/yanpi_r
+        weight: 1
+      - path: Bip01/l1
+        weight: 1
+      - path: Bip01/l1/l2
+        weight: 1
+      - path: Bip01/l1/l2/l3
+        weight: 1
+      - path: Bip01/l4
+        weight: 1
+      - path: Bip01/l4/l5
+        weight: 1
+      - path: Bip01/l4/l5/l6
+        weight: 1
+      - path: Bip01/r1
+        weight: 1
+      - path: Bip01/r1/r2
+        weight: 1
+      - path: Bip01/r1/r2/r3
+        weight: 1
+      - path: Bip01/r4
+        weight: 1
+      - path: Bip01/r4/r5
+        weight: 1
+      - path: Bip01/r4/r5/r6
+        weight: 1
+      - path: Bip01/weiba1
+        weight: 1
+      - path: Bip01/weiba1/weiba2
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 712b2c9ebc6b2564d9159b1192f8adae
+timeCreated: 1514428621
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skill
+    21300002: skill1.jpg
+    21300004: skill10.jpg
+    21300006: skill11.jpg
+    21300008: skill12.jpg
+    21300010: skill13.jpg
+    21300012: skill14.jpg
+    21300014: skill15.jpg
+    21300016: skill16.jpg
+    21300018: skill17.jpg
+    21300020: skill18.jpg
+    21300022: skill19.jpg
+    21300024: skill2.jpg
+    21300026: skill20.jpg
+    21300028: skill2001.jpg
+    21300030: skill2002.jpg
+    21300032: skill2003.jpg
+    21300034: skill2004.jpg
+    21300036: skill2005.jpg
+    21300038: skill21.jpg
+    21300040: skill22.jpg
+    21300042: skill23.jpg
+    21300044: skill24.jpg
+    21300046: skill3.jpg
+    21300048: skill4.jpg
+    21300050: skill5.jpg
+    21300052: skill6.jpg
+    21300054: skill7.jpg
+    21300056: skill8.jpg
+    21300058: skill9.jpg
+    21300060: skill2006.jpg
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skill1.jpg
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 38
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill10.jpg
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 117
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill11.jpg
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 196
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill12.jpg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 275
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill13.jpg
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 275
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill14.jpg
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 275
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill15.jpg
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 38
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill16.jpg
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 117
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill17.jpg
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 196
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill18.jpg
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 275
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill19.jpg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 354
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2.jpg
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 354
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill20.jpg
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 354
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2001.jpg
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 354
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2002.jpg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 38
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2003.jpg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2004.jpg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2005.jpg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 275
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill2006.jpg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 354
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill21.jpg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 433
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill22.jpg
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 433
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill23.jpg
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 433
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill24.jpg
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 433
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill3.jpg
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 433
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill4.jpg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill5.jpg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill6.jpg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 196
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill7.jpg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill8.jpg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: skill9.jpg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 39, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

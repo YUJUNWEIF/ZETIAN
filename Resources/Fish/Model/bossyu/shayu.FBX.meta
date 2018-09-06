@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: f0162d796312ef9478543023253242ff
+timeCreated: 1505803929
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Bone009
+    100018: Bone010
+    100020: Bone011
+    100022: Bone012
+    100024: Bone013
+    100026: Bone014
+    100028: Bone015
+    100030: Bone016
+    100032: Bone019
+    100034: Bone020
+    100036: Bone021
+    100038: Bone022
+    100040: Bone023
+    100042: Bone025
+    100044: Bone026
+    100046: Bone028
+    100048: Bone030
+    100050: Bone031
+    100052: Bone032
+    100054: Bone033
+    100056: Bone034
+    100058: Bone035
+    100060: Bone035(mirrored)
+    100062: Bone036
+    100064: Bone036(mirrored)
+    100066: Bone037
+    100068: Bone037(mirrored)
+    100070: Bone038
+    100072: Bone038(mirrored)
+    100074: Dummy001
+    100076: Dummy002
+    100078: Dummy003
+    100080: Dummy004
+    100082: etou
+    100084: pengzhuang001
+    100086: pengzhuang002
+    100088: pengzhuang003
+    100090: pengzhuang004
+    100092: pengzhuang005
+    100094: pengzhuang006
+    100096: pengzhuang007
+    100098: pengzhuang008
+    100100: pigu
+    100102: //RootNode
+    100104: shayu
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Bone009
+    400018: Bone010
+    400020: Bone011
+    400022: Bone012
+    400024: Bone013
+    400026: Bone014
+    400028: Bone015
+    400030: Bone016
+    400032: Bone019
+    400034: Bone020
+    400036: Bone021
+    400038: Bone022
+    400040: Bone023
+    400042: Bone025
+    400044: Bone026
+    400046: Bone028
+    400048: Bone030
+    400050: Bone031
+    400052: Bone032
+    400054: Bone033
+    400056: Bone034
+    400058: Bone035
+    400060: Bone035(mirrored)
+    400062: Bone036
+    400064: Bone036(mirrored)
+    400066: Bone037
+    400068: Bone037(mirrored)
+    400070: Bone038
+    400072: Bone038(mirrored)
+    400074: Dummy001
+    400076: Dummy002
+    400078: Dummy003
+    400080: Dummy004
+    400082: etou
+    400084: pengzhuang001
+    400086: pengzhuang002
+    400088: pengzhuang003
+    400090: pengzhuang004
+    400092: pengzhuang005
+    400094: pengzhuang006
+    400096: pengzhuang007
+    400098: pengzhuang008
+    400100: pigu
+    400102: shayu
+    400104: //RootNode
+    4300000: shayu
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: shayu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

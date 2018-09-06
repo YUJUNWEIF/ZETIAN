@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 08f71ea222d0f80409093afb1e70f65a
+timeCreated: 1505219908
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back00
+    100002: Back01
+    100004: Back02
+    100006: Back_Qi01
+    100008: Down_Mouth00
+    100010: etou
+    100012: Hip00
+    100014: L_Eye00
+    100016: L_Qi01
+    100018: L_Yanpi00
+    100020: pengzhuang001
+    100022: pengzhuang002
+    100024: pengzhuang003
+    100026: R_Eye00
+    100028: R_Qi01
+    100030: R_Yanpi00
+    100032: Up_Mouth00
+    100034: Up_Qi00
+    100036: //RootNode
+    100038: xiaochouyu
+    400000: Back00
+    400002: Back01
+    400004: Back02
+    400006: Back_Qi01
+    400008: Down_Mouth00
+    400010: etou
+    400012: Hip00
+    400014: L_Eye00
+    400016: L_Qi01
+    400018: L_Yanpi00
+    400020: pengzhuang001
+    400022: pengzhuang002
+    400024: pengzhuang003
+    400026: R_Eye00
+    400028: R_Qi01
+    400030: R_Yanpi00
+    400032: Up_Mouth00
+    400034: Up_Qi00
+    400036: //RootNode
+    400038: xiaochouyu
+    4300000: xiaochouyu
+    7400000: swim
+    7400002: 'bruise '
+    7400004: die
+    7400006: swim6
+    7400008: swim3
+    7400010: swim2
+    7400012: swim5
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: xiaochouyu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: swim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'bruise '
+      takeName: Take 001
+      firstFrame: 33
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die
+      takeName: Take 001
+      firstFrame: 361
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim6
+      takeName: Take 001
+      firstFrame: 405
+      lastFrame: 437
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim3
+      takeName: Take 001
+      firstFrame: 440
+      lastFrame: 480
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim2
+      takeName: Take 001
+      firstFrame: 485
+      lastFrame: 525
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim5
+      takeName: Take 001
+      firstFrame: 530
+      lastFrame: 580
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hip00
+        weight: 1
+      - path: Hip00/Back00
+        weight: 1
+      - path: Hip00/Back00/Back01
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02
+        weight: 1
+      - path: Hip00/Back00/Back01/Back02/pengzhuang003
+        weight: 1
+      - path: Hip00/Back00/Back01/Back_Qi01
+        weight: 1
+      - path: Hip00/Back00/Back01/pengzhuang002
+        weight: 1
+      - path: Hip00/Back00/L_Qi01
+        weight: 1
+      - path: Hip00/Back00/R_Qi01
+        weight: 1
+      - path: Hip00/Back00/Up_Qi00
+        weight: 1
+      - path: Hip00/Down_Mouth00
+        weight: 1
+      - path: Hip00/etou
+        weight: 1
+      - path: Hip00/pengzhuang001
+        weight: 1
+      - path: Hip00/Up_Mouth00
+        weight: 1
+      - path: L_Eye00
+        weight: 1
+      - path: L_Yanpi00
+        weight: 1
+      - path: R_Eye00
+        weight: 1
+      - path: R_Yanpi00
+        weight: 1
+      - path: xiaochouyu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

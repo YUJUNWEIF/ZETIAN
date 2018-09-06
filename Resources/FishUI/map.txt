@@ -1,0 +1,60 @@
+{"frames": {
+
+"map1.png":
+{
+	"frame": {"x":1,"y":143,"w":207,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":141},
+	"sourceSize": {"w":207,"h":141}
+},
+"map2.png":
+{
+	"frame": {"x":1,"y":1,"w":217,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":141},
+	"sourceSize": {"w":217,"h":141}
+},
+"map3.png":
+{
+	"frame": {"x":219,"y":1,"w":216,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":145},
+	"sourceSize": {"w":216,"h":145}
+},
+"map4.png":
+{
+	"frame": {"x":1,"y":285,"w":206,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":139},
+	"sourceSize": {"w":206,"h":139}
+},
+"map5.png":
+{
+	"frame": {"x":208,"y":285,"w":201,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":135},
+	"sourceSize": {"w":201,"h":135}
+},
+"map6.png":
+{
+	"frame": {"x":209,"y":147,"w":189,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":122},
+	"sourceSize": {"w":189,"h":122}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "map.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:edae0098855684e1e1a40b00e8ec37e3$"
+}
+}

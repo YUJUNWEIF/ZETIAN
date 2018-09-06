@@ -1,0 +1,6118 @@
+fileFormatVersion: 2
+guid: c625125cc8222324d85f9c833dcd5946
+timeCreated: 1515823275
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u62C9"
+    21300002: A_Bottom_2.png
+    21300004: A_Bottom_3.png
+    21300006: A_Center_1.png
+    21300008: A_Center_1_2.png
+    21300010: A_Center_2.png
+    21300012: A_Top.png
+    21300014: A_Top_1.png
+    21300016: A_Top_2.png
+    21300018: A_Top_3.png
+    21300020: A_Top_4.png
+    21300022: A_Top_5.png
+    21300024: A_Top_6.png
+    21300026: A_Top_6_2.png
+    21300028: A_Top_7.png
+    21300030: A_Top_8.png
+    21300032: IC_1_1.png
+    21300034: IC_1_2.png
+    21300036: IC_2_1.png
+    21300038: IC_2_2.png
+    21300040: IC_3_1.png
+    21300042: IC_3_2.png
+    21300044: IC_4_1.png
+    21300046: IC_4_2.png
+    21300048: IC_5_1.png
+    21300050: IC_5_2.png
+    21300052: IC_D.png
+    21300054: IC_M.png
+    21300056: IC_V.png
+    21300058: A_Top_2_2.png
+    21300060: B_Center_1.png
+    21300062: B_Center_1_2.png
+    21300064: B_Center_2.png
+    21300066: B_Center_2_2.png
+    21300068: B_Top_1.png
+    21300070: B_Top_2.png
+    21300072: B_Top_3.png
+    21300074: B_Top_4.png
+    21300076: B_Top_5.png
+    21300078: B_Top_6.png
+    21300080: B_Top_7.png
+    21300082: B_Top_8.png
+    21300084: C_Top.png
+    21300086: C_Top_1.png
+    21300088: C_Top_2.png
+    21300090: C_Top_3.png
+    21300092: D_Center_1.png
+    21300094: D_Center_1_2.png
+    21300096: D_Center_2.png
+    21300098: D_Top_1.png
+    21300100: D_Top_10.png
+    21300102: D_Top_2.png
+    21300104: D_Top_3.png
+    21300106: D_Top_4.png
+    21300108: D_Top_5.png
+    21300110: D_Top_6.png
+    21300112: D_Top_7.png
+    21300114: D_Top_8.png
+    21300116: D_Top_9.png
+    21300118: E_Top_1.png
+    21300120: E_Top_2.png
+    21300122: E_Top_3.png
+    21300124: E_Top_4.png
+    21300126: E_Top_5.png
+    21300128: E_Top_6.png
+    21300130: F_Center_1.png
+    21300132: F_Center_1_2.png
+    21300134: F_Center_1_3.png
+    21300136: F_Center_2.png
+    21300138: F_Center_2_2.png
+    21300140: F_Top.png
+    21300142: F_Top_1.png
+    21300144: F_Top_2.png
+    21300146: F_Top_3.png
+    21300148: F_Top_4.png
+    21300150: F_Top_5.png
+    21300152: F_Top_6.png
+    21300154: F_Top_7.png
+    21300156: IC_10.png
+    21300158: IC_11.png
+    21300160: IC_12.png
+    21300162: IC_13.png
+    21300164: IC_14.png
+    21300166: IC_15.png
+    21300168: IC_16.png
+    21300170: IC_17.png
+    21300172: IC_18.png
+    21300174: IC_19.png
+    21300176: IC_20.png
+    21300178: IC_21.png
+    21300180: IC_21_01.png
+    21300182: IC_22.png
+    21300184: IC_22_01.png
+    21300186: IC_23.png
+    21300188: IC_23_01.png
+    21300190: IC_24.png
+    21300192: IC_24_01.png
+    21300194: IC_25.png
+    21300196: IC_25_01.png
+    21300198: IC_26.png
+    21300200: IC_26_01.png
+    21300202: IC_27.png
+    21300204: IC_27_01.png
+    21300206: IC_28.png
+    21300208: IC_28_01.png
+    21300210: IC_29.png
+    21300212: IC_29_01.png
+    21300214: IC_30.png
+    21300216: IC_30_01.png
+    21300218: IC_31.png
+    21300220: IC_31_01.png
+    21300222: IC_32.png
+    21300224: IC_32_01.png
+    21300226: IC_33.png
+    21300228: IC_33_01.png
+    21300230: IC_34.png
+    21300232: IC_9.png
+    21300234: IC_L.png
+    21300236: IC_S.png
+    21300238: E_Top_7.png
+    21300240: B_Center_3.png
+    21300242: B_Center_3_2.png
+    21300244: B_Top_10.png
+    21300246: B_Top_9.png
+    21300248: E_Top.png
+    21300250: G_Center_1.png
+    21300252: G_Center_1_2.png
+    21300254: G_Center_2.png
+    21300256: G_Center_2_2.png
+    21300258: G_Top_1.png
+    21300260: G_Top_2.png
+    21300262: G_Top_3.png
+    21300264: G_Top_4.png
+    21300266: G_Top_6.png
+    21300268: G_Top_7.png
+    21300270: G_Top_8.png
+    21300272: G_Top_8_2.png
+    21300274: G_Top_9.png
+    21300276: G_Top_9_2.png
+    21300278: H_Top_1.png
+    21300280: H_Top_10.png
+    21300282: H_Top_11.png
+    21300284: H_Top_12.png
+    21300286: H_Top_13.png
+    21300288: H_Top_2.png
+    21300290: H_Top_3.png
+    21300292: H_Top_4.png
+    21300294: H_Top_5.png
+    21300296: H_Top_6.png
+    21300298: H_Top_7.png
+    21300300: H_Top_8.png
+    21300302: H_Top_9.png
+    21300304: I_Top_3.png
+    21300306: IC_10_1.png
+    21300308: IC_10_2.png
+    21300310: IC_6_1.png
+    21300312: IC_6_2.png
+    21300314: IC_7_1.png
+    21300316: IC_7_2.png
+    21300318: IC_8_1.png
+    21300320: IC_8_2.png
+    21300322: IC_9_1.png
+    21300324: IC_9_2.png
+    21300326: IC_G.png
+    21300328: IC_jineng_1.png
+    21300330: IC_jineng_2.png
+    21300332: IC_keji_1.png
+    21300334: IC_keji_2.png
+    21300336: IC_kuaishu_1.png
+    21300338: IC_kuaishu_2.png
+    21300340: IC_kuozhang_1.png
+    21300342: IC_kuozhang_2.png
+    21300344: A_Top_2_2_2.png
+    21300346: B_03.png
+    21300348: 1.png
+    21300350: 1_2.png
+    21300352: 1_big.png
+    21300354: 1_box.png
+    21300356: 2.png
+    21300358: 2_2.png
+    21300360: 2_big.png
+    21300362: 2_box.png
+    21300364: di_+.png
+    21300366: di_613x231.png
+    21300368: "di_\u62C9\u5BBD\u81F3585.png"
+    21300370: "di_\u62C9\u5BBD\u81F3600.png"
+    21300372: G_Center_2_red.png
+    21300374: hp_1.png
+    21300376: hp_blue.png
+    21300378: hp_box.png
+    21300380: hp_red.png
+    21300382: pj_a.png
+    21300384: pj_b.png
+    21300386: pj_c.png
+    21300388: pj_d.png
+    21300390: pj_s.png
+    21300392: pk_k.png
+    21300394: pk_p.png
+    21300396: round.png
+    21300398: round1.png
+    21300400: round2.png
+    21300402: round3.png
+    21300404: round4.png
+    21300406: round5.png
+    21300408: vs_s.png
+    21300410: vs_v.png
+    21300412: wl_lose.png
+    21300414: wl_win.png
+    21300416: "\u4E2D\u95F4\u90A3\u4E00\u5757640x400.png"
+    21300418: "\u62C9\u5BBD\u81F3607.png"
+    21300420: "\u62C9\u5BBD\u81F3656.png"
+    21300422: "\u62C9\u5BBD\u81F3656_2.png"
+    21300424: "\u6309\u94AE.png"
+    21300426: .png
+    21300428: 607.png
+    21300430: 640x400.png
+    21300432: 656.png
+    21300434: 656_2.png
+    21300436: D_Center_2_red.png
+    21300438: di_585.png
+    21300440: di_600.png
+    21300442: +_1.png
+    21300444: A_Bottom_1.png
+    21300446: anniu_1.png
+    21300448: anniu_3.png
+    21300450: anniu_3_1.png
+    21300452: box.png
+    21300454: H_Top_13_1.png
+    21300456: liaotian.png
+    21300458: top.png
+    21300460: "\u62C9\u957F\u81F3520.png"
+    21300462: 1_1.png
+    21300464: 1_five.png
+    21300466: 1_four.png
+    21300468: 1_one.png
+    21300470: 1_three.png
+    21300472: 1_two.png
+    21300474: "\u51FA\u6218.png"
+    21300476: "\u5934\u50CF\u5E95.png"
+    21300478: "\u5E95.png"
+    21300480: "\u62C9\u957F\u81F3460.png"
+    21300482: "\u66FF\u8865.png"
+    21300484: "\u70B9.png"
+    21300486: "\u6E10\u53D8.png"
+    21300488: "100X50\u672A\u9009\u4E2D.png"
+    21300490: "100X50\u9009\u4E2D.png"
+    21300492: 182x224.png
+    21300494: 240X100.png
+    21300496: 320X40.png
+    21300498: a_-.png
+    21300500: a_+.png
+    21300502: a_1.png
+    21300504: a_2.png
+    21300506: a_250X24.png
+    21300508: "a_\u6309\u94AE.png"
+    21300510: "a_\u8F93\u5165\u6570\u5B57.png"
+    21300512: anniu_blue.png
+    21300514: anniu_green.png
+    21300516: icon_1.png
+    21300518: icon_2.png
+    21300520: icon_3.png
+    21300522: O_quan1.png
+    21300524: O_quan2.png
+    21300526: O_quan3.png
+    21300528: O_quan4.png
+    21300530: "\u62C9\u5BBD\u81F3169.png"
+    21300532: 1_150X35.png
+    21300534: 2_150X35.png
+    21300536: 3_155X35.png
+    21300538: 4_155X35.png
+    21300540: "\u5206\u754C\u7EBF.png"
+    21300542: "\u5458\u5DE5\u8BAD\u7EC3\u9009\u62E9\u680F\u57AB\u5E95.png"
+    21300544: "\u5E95420X390.png"
+    21300546: "\u8BA1\u5212\u4EFB\u52A1\u5E95420X200.png"
+    21300548: "\u961F\u5458\u4FE1\u606F\u5E95310X175.png"
+    21300550: "\u9875\u6807\u7B7E_\u672A\u9009\u4E2D136X50.png"
+    21300552: "\u9875\u6807\u7B7E_\u9009\u4E2D136X50.png"
+    21300554: star_1.png
+    21300556: star_2.png
+    21300558: star_3.png
+    21300560: star_4.png
+    21300562: star_5.png
+    21300564: tiao_01.png
+    21300566: "tips\u5185\u90E8\u5E95.png"
+    21300568: "tips\u5916\u90E8\u5E95.png"
+    21300570: "\u53D6\u6D88\u6309\u94AE.png"
+    21300572: "\u6210\u957F\u503C\u5E95\u6846260X36.png"
+    21300574: "\u89E3\u96C7\u6309\u94AE.png"
+    21300576: "\u9501\u5B9A.png"
+    21300578: "\u9501\u5B9A\u6309\u94AE\u5E95.png"
+    21300580: "\u5E26\u8FB9\u7684\u6846.png"
+    21300582: "\u5927\u6309\u94AE,\u62C9\u5BBD\u81F3180.png"
+    21300584: "xz_\u4EFB\u52A1\u4E2D\u5FC3_\u65E5\u5E38\u4EFB\u52A1.png"
+    21300586: "xz_\u4EFB\u52A1\u4E2D\u5FC3_\u7CBE\u5F69\u6D3B\u52A8.png"
+    21300588: "xz_\u5458\u5DE5\u4E2D\u5FC3_\u6218\u961F\u7BA1\u7406.png"
+    21300590: "xz_\u5458\u5DE5\u4E2D\u5FC3_\u961F\u5458\u62DB\u52DF.png"
+    21300592: "xz_\u5458\u5DE5\u4E2D\u5FC3_\u961F\u5458\u8D44\u6599.png"
+    21300594: "xz_\u5546\u4E1A\u8D5B\u573A_\u51A0\u519B\u676F.png"
+    21300596: "xz_\u5546\u4E1A\u8D5B\u573A_\u5929\u68AF\u8D5B.png"
+    21300598: "xz_\u5546\u4E1A\u8D5B\u573A_\u6311\u6218\u8D5B.png"
+    21300600: "xz_\u5546\u4E1A\u8D5B\u573A_\u8054\u8D5B.png"
+    21300602: "xz_\u57F9\u8BAD\u4E2D\u5FC3_\u5458\u5DE5\u57F9\u8BAD.png"
+    21300604: "xz_\u57F9\u8BAD\u4E2D\u5FC3_\u8BAD\u7EC3\u5546\u5E97.png"
+    21300606: "xz_\u603B\u90E8\u5927\u697C_\u8054\u8D5B\u6218\u62A5.png"
+    21300608: "xz_\u603B\u90E8\u5927\u697C_\u8D22\u52A1\u72B6\u51B5.png"
+    21300610: "\u5173\u95ED.png"
+    21300612: ',180.png'
+    21300614: _136X50.png
+    21300616: 100X50.png
+    21300618: 169.png
+    21300620: 260X36.png
+    21300622: 310X175.png
+    21300624: 420X200.png
+    21300626: 420X390.png
+    21300628: 460.png
+    21300630: 520.png
+    21300632: a.png
+    21300634: a_.png
+    21300636: tips.png
+    21300638: xz__.png
+    21300640: "a\u6D45\u8272\u6846.png"
+    21300642: "a\u6DF1\u8272\u6846.png"
+    21300644: "\u5C0F\u80CC\u666F\u56FE.png"
+    21300646: "\u5E26\u5916\u53D1\u5149\u7684\u6846.png"
+    21300648: "\u7279\u6548\u56FE1.png"
+    21300650: "\u7279\u6548\u56FE2.png"
+    21300652: "\u7B2C\u4E00\u4E24\u8FB9.png"
+    21300654: "\u7B2C\u4E09\u4E24\u8FB9.png"
+    21300656: "\u7B2C\u4E8C\u4E24\u8FB9.png"
+    21300658: "\u901A\u7528\u5149\u6548.png"
+    21300660: "\u611F\u53F9\u53F7\u77E5\u9053\u4E0D.png"
+    21300662: "\u5EF6\u4F38\u6846.png"
+    21300664: "\u6807\u9898\u680F\u53E0\u52A0\u56FE\u5C42.png"
+    21300666: "VIP\u7684\u5E95.png"
+    21300668: "\u4E0A_\u62C9\u5BBD\u81F3960.png"
+    21300670: "\u4FE1\u606F\u680F_\u5E95.png"
+    21300672: "\u53F3\u4E0B_\u62C9\u5BBD\u81F3462.png"
+    21300674: "\u5DE6\u4E0B_\u62C9\u5BBD\u81F3498.png"
+    21300676: "\u5E26\u6E10\u53D8\u9ED1\u8272\u5E95.png"
+    21300678: "\u6309\u94AE_\u4ED3\u5E93.png"
+    21300680: "\u6309\u94AE_\u5145\u503C_\u5E95.png"
+    21300682: "\u6309\u94AE_\u5546\u57CE.png"
+    21300684: "\u6309\u94AE_\u597D\u53CB.png"
+    21300686: "\u6309\u94AE_\u666E\u901A_\u5E95.png"
+    21300688: "\u6309\u94AE_\u804A\u5929.png"
+    21300690: "\u6309\u94AE_\u804A\u5929_\u5E95.png"
+    21300692: "\u6309\u94AE_\u8BBE\u7F6E.png"
+    21300694: "\u6309\u94AE_\u90AE\u4EF6.png"
+    21300696: "\u65F6\u95F4_\u591C\u665A.png"
+    21300698: "\u65F6\u95F4_\u767D\u5929.png"
+    21300700: "\u7B49\u7EA7\u5E95.png"
+    21300702: "\u53E0\u52A0\u7684\u56FE\u6848.png"
+    21300704: "\u53EF\u4FEE\u6539\u4FE1\u606F\u6846_\u62C9\u5BBD\u81F3300.png"
+    21300706: "\u5706_\u84DD\u8272.png"
+    21300708: "\u5706_\u9EC4.png"
+    21300710: "\u67611.png"
+    21300712: "\u6846\u683C\u5B50.png"
+    21300714: "\u597D\u53CB_pk.png"
+    21300716: "\u597D\u53CB_\u5220\u9664.png"
+    21300718: "\u597D\u53CB_\u67E5\u627E.png"
+    21300720: "\u597D\u53CB_\u6DFB\u52A0.png"
+    21300722: "\u597D\u53CB_\u7533\u8BF7.png"
+    21300724: "\u597D\u53CB_\u8BE6\u60C5.png"
+    21300726: "\u597D\u53CB_\u8FD4\u56DE.png"
+    21300728: "\u597D\u53CB_\u90AE\u4EF6.png"
+    21300730: "\u5E95\u6846_\u6DF1\u8272.png"
+    21300732: "\u5E95\u6846_\u9AD8\u4EAE.png"
+    21300734: "\u90AE\u4EF6_\u56DE\u590D.png"
+    21300736: "\u90AE\u4EF6_\u5DF2\u8BFB.png"
+    21300738: "\u90AE\u4EF6_\u672A\u8BFB.png"
+    21300740: "\u90AE\u4EF6_\u7CFB\u7EDF.png"
+    21300742: "\u597D\u53CB_\u5F39\u51FA_\u6846.png"
+    21300744: "\u597D\u53CB_\u5F39\u51FA_\u7EA2\u5E95.png"
+    21300746: "\u597D\u53CB_\u5F39\u51FA_\u84DD\u5E95.png"
+    21300748: "b_\u4ED3\u5E93.png"
+    21300750: "b_\u5546\u57CE.png"
+    21300752: "b_\u597D\u53CB.png"
+    21300754: "b_\u8BBE\u7F6E.png"
+    21300756: "b_\u90AE\u4EF6.png"
+    21300758: "c_\u540C\u610F.png"
+    21300760: "c_\u62D2\u7EDD.png"
+    21300762: "d_\u5173\u95ED.png"
+    21300764: "d_\u6253\u5F00.png"
+    21300766: "\u597D\u53CB_\u597D\u53CB.png"
+    21300768: "\u804A\u5929\u5E95_520X515.png"
+    21300770: "\u62DB\u52DF\u5361\u724C.png"
+    21300772: "\u62DB\u52DF\u57AB\u5E95.png"
+    21300774: "\u62DB\u52DF\u6309\u94AE.png"
+    21300776: "\u5149\u6548_\u53E6\u4E00\u4E2A\u7FFB\u8F6C.png"
+    21300778: "\u5F00\u59CB\u6E38\u620F\u6587\u5B57.png"
+    21300780: "\u670D\u52A1\u5668_\u9009\u4E2D.png"
+    21300782: "\u767B\u5F55\u754C\u9762\u7684_\u6309\u94AE.png"
+    21300784: "\u901A\u7528\u6846.png"
+    21300786: "\u901A\u7528\u6846_\u8F93\u5165\u72B6\u6001.png"
+    21300788: "\u901A\u7528\u6846_\u9519\u8BEF\u72B6\u6001.png"
+    21300790: "\u4E2D\u95F4\u7684\u5E95.png"
+    21300792: "\u7EA2\u65B9\u5E95.png"
+    21300794: "\u84DD\u65B9\u5E95.png"
+    21300796: E-01.png
+    21300798: E-02.png
+    21300800: E-03.png
+    21300802: E-04.png
+    21300804: E-05.png
+    21300806: E-06.png
+    21300808: E-07.png
+    21300810: E-08.png
+    21300812: E-09.png
+    21300814: E-10.png
+    21300816: E-11.png
+    21300818: E-12.png
+    21300820: E-13.png
+    21300822: E-14.png
+    21300824: E-15.png
+    21300826: E-16.png
+    21300828: E-17.png
+    21300830: E-18.png
+    21300832: E-19.png
+    21300834: E-20.png
+    21300836: E-21.png
+    21300838: E-22.png
+    21300840: E-23.png
+    21300842: E-24.png
+    21300844: E-25.png
+    21300846: E-26.png
+    21300848: E-27.png
+    21300850: E-28.png
+    21300852: E-29.png
+    21300854: E-30.png
+    21300856: E-31.png
+    21300858: E-32.png
+    21300860: E-33.png
+    21300862: E-34.png
+    21300864: E-35.png
+    21300866: E-36.png
+    21300868: E-37.png
+    21300870: E-38.png
+    21300872: E-39.png
+    21300874: E-40.png
+    21300876: E-41.png
+    21300878: E-42.png
+    21300880: E-43.png
+    21300882: E-44.png
+    21300884: E-45.png
+    21300886: E-46.png
+    21300888: E-47.png
+    21300890: E-48.png
+    21300892: E-49.png
+    21300894: E-50.png
+    21300896: E-51.png
+    21300898: E-52.png
+    21300900: E-53.png
+    21300902: E-54.png
+    21300904: E-55.png
+    21300906: E-56.png
+    21300908: E-57.png
+    21300910: E-58.png
+    21300912: E-59.png
+    21300914: E-60.png
+    21300916: E-61.png
+    21300918: E-62.png
+    21300920: E-63.png
+    21300922: pj_ss.png
+    21300924: "1_\u6309\u94AE\u5DF2\u6FC0\u6D3B.png"
+    21300926: "1_\u6309\u94AE\u6253\u5F00.png"
+    21300928: "1_\u6309\u94AE\u672A\u6FC0\u6D3B.png"
+    21300930: "2_\u5355\u65E5\u5956\u52B1.png"
+    21300932: "2_\u53CC\u65E5\u5956\u52B1.png"
+    21300934: "2_\u5468\u5956\u52B1.png"
+    21300936: "2_\u6708\u5956\u52B1.png"
+    21300938: "2_\u7B49\u7EA7\u5956\u52B1.png"
+    21300940: "2_\u7D2F\u79EF\u5956\u52B1.png"
+    21300942: "3_\u9009\u9879\u5E95\u56FE.png"
+    21300944: NO_1.png
+    21300946: "\u5408\u7EA6\u6309\u94AE\u5E95.png"
+    21300948: "\u5BF9\u8BDD\u6846_\u4E0B\u4E00\u6761.png"
+    21300950: "\u5BF9\u8BDD\u6846_\u62C9\u5BBD\u81F3390.png"
+    21300952: "\u6311\u6218\u6846\u5E95.png"
+    21300954: "\u63A8\u8350\u6309\u94AE\u5E95.png"
+    21300956: "\u6570\u5B57_01_\u84DD.png"
+    21300958: "\u6570\u5B57_01_\u9EC4.png"
+    21300960: "\u6570\u5B57_02_\u84DD.png"
+    21300962: "\u6570\u5B57_02_\u9EC4.png"
+    21300964: "\u6570\u5B57_03_\u84DD.png"
+    21300966: "\u6570\u5B57_03_\u9EC4.png"
+    21300968: "\u6570\u5B57_04_\u84DD.png"
+    21300970: "\u6570\u5B57_04_\u9EC4.png"
+    21300972: "\u6570\u5B57_05_\u84DD.png"
+    21300974: "\u6570\u5B57_05_\u9EC4.png"
+    21300976: "\u6570\u5B57_06_\u84DD.png"
+    21300978: "\u6570\u5B57_06_\u9EC4.png"
+    21300980: "\u6570\u5B57\u524D\u9762\u7684\u5708\u5708.png"
+    21300982: "\u6570\u5B57\u524D\u9762\u7684\u7EBF\u62C9\u957F\u5230610.png"
+    21300984: "\u664B\u7EA7\u4EAE\u6846.png"
+    21300986: "\u70B9\u51FB_\u6307\u5F15\u7BAD\u5934.png"
+    21300988: "\u70B9\u51FB_\u6587\u5B57\u56FE.png"
+    21300990: "\u8BAD\u7EC3\u5E95\u56FE.png"
+    21300992: "\u8FDE\u7EBF_\u4EAE.png"
+    21300994: "\u8FDE\u7EBF_\u6697.png"
+    21300996: "\u9EC4\u8272\u6761.png"
+    21300998: kuang-hui.png
+    21301000: kuang-jin.png
+    21301002: kuang-lan.png
+    21301004: kuang-lv.png
+    21301006: kuang-zi.png
+    21301008: "\u5929\u68AF\u79EF\u5206\u56FE\u6807.png"
+    21301010: 1 (2).png
+    21301012: a_1 (2).png
+    21301014: a_2 (2).png
+    21301016: a_3.png
+    21301018: a_4.png
+    21301020: a_5.png
+    21301022: aaaa.png
+    21301024: aaaaaaa2.png
+    21301026: new.png
+    21301028: "xz_\u603B\u90E8\u5927\u697C_\u7ECF\u7406\u4EBA.png"
+    21301030: "\u4E09\u89D2\u5F62_\u4EAE.png"
+    21301032: "\u4E09\u89D2\u5F62_\u6697.png"
+    21301034: "\u4FE1\u606F\u6846_\u62C9\u5BBD\u81F3300.png"
+    21301036: "\u56FE-\u5931\u8D25.jpg"
+    21301038: "\u56FE-\u80DC\u5229.jpg"
+    21301040: "\u611F\u53F9\u53F7.png"
+    21301042: "\u6307\u9488.png"
+    21301044: "\u6587\u5B57-\u5931\u8D25.png"
+    21301046: "\u6587\u5B57-\u80DC\u5229.png"
+    21301048: "\u65B0\u624B\u5F15\u5BFC_\u5934\u50CF\u68461.png"
+    21301050: "\u65B0\u624B\u5F15\u5BFC_\u5934\u50CF\u68462.png"
+    21301052: "\u65B0\u624B\u5F15\u5BFC_\u62D6\u52A81.png"
+    21301054: "\u65B0\u624B\u5F15\u5BFC_\u62D6\u52A82.png"
+    21301056: "\u6EDA\u52A8\u6309\u94AE.png"
+    21301058: "\u7279\u65481.png"
+    21301060: "\u9009\u4E2D\u5206\u9875\u5C42.png"
+    21301062: "\u4E09\u89D2\u7BAD\u5934.png"
+    21301064: "\u5B9D\u7BB1.png"
+    21301066: "\u65E5\u5E38\u4EFB\u52A1\u6846.png"
+    21301068: "\u4E3B\u754C\u9762\u56FE\u6807\u5E95\u6846.png"
+    21301070: "\u5175\u79CD\u8BF4\u660E\u754C\u97621.png"
+    21301072: "\u5175\u79CD\u8BF4\u660E\u754C\u97622.png"
+    21301074: "\u5175\u79CD\u8BF4\u660E\u754C\u97623.png"
+    21301076: "\u5175\u79CD\u8BF4\u660E\u754C\u976231.png"
+    21301078: "\u5175\u79CD\u8BF4\u660E\u754C\u976232.png"
+    21301080: "\u5175\u79CD\u8BF4\u660E\u754C\u976233.png"
+    21301082: "\u5546\u52A1\u90E8\u76F4\u64AD\u5927\u5385djtv.png"
+    21301084: "\u5546\u52A1\u90E8\u76F4\u64AD\u5927\u5385\u56FE\u6807.png"
+    21301086: "\u5546\u52A1\u90E8\u7F51\u7EDC\u8425\u9500\u5927\u6846.png"
+    21301088: "\u5546\u52A1\u90E8\u8D5E\u52A9\u55461.png"
+    21301090: "\u5546\u52A1\u90E8\u8D5E\u52A9\u55462.png"
+    21301092: "\u5546\u52A1\u90E8\u8D5E\u52A9\u55463.png"
+    21301094: "\u5546\u52A1\u90E8\u8D5E\u52A9\u55464.png"
+    21301096: "\u5546\u52A1\u90E8\u8D5E\u52A9\u55465.png"
+    21301098: "\u5546\u52A1\u90E8\u8D5E\u52A9\u55466.png"
+    21301100: "\u5546\u52A1\u90E8\u8D5E\u52A9\u5546\u5927\u6846.png"
+    21301102: "\u5546\u52A1\u90E8\u8D5E\u52A9\u5546\u6309\u94AE.png"
+    21301104: "\u56FE\u6807\u5175\u79CD.png"
+    21301106: "\u56FE\u6807\u597D\u53CB.png"
+    21301108: "\u56FE\u6807\u66F4\u591A.png"
+    21301110: "\u56FE\u6807\u8FD4\u56DE.png"
+    21301112: "\u6309\u94AE\u7EA2.png"
+    21301114: "\u6309\u94AE\u7EFF.png"
+    21301116: "\u65B0\u6218\u6597_\u5730\u56FE1.png"
+    21301118: "\u65B0\u6218\u65971.png"
+    21301120: "\u65B0\u6218\u65972.png"
+    21301122: "\u65B0\u6218\u65973.png"
+    21301124: "\u65E5\u7A0B\u5C5E\u60271.png"
+    21301126: "\u65E5\u7A0B\u5C5E\u60272.png"
+    21301128: "\u65E5\u7A0B\u5C5E\u60273.png"
+    21301130: "\u65E5\u7A0B\u5C5E\u60274.png"
+    21301132: "\u65E5\u7A0B\u6280\u80FD1.png"
+    21301134: "\u65E5\u7A0B\u6280\u80FD2.png"
+    21301136: "\u65E5\u7A0B\u6280\u80FD3.png"
+    21301138: "\u65E5\u7A0B\u7ECF\u9A8C1.png"
+    21301140: "\u65E5\u7A0B\u7ECF\u9A8C2.png"
+    21301142: "\u65E5\u7A0B\u7ECF\u9A8C3.png"
+    21301144: "xz_\u5546\u52A1\u90E8_\u4EE3\u8A00\u4E2D\u5FC3.png"
+    21301146: "xz_\u5546\u52A1\u90E8_\u76F4\u64AD\u5927\u5385.png"
+    21301148: "xz_\u5546\u52A1\u90E8_\u7F51\u7EDC\u8425\u9500.png"
+    21301150: "xz_\u57F9\u8BAD\u4E2D\u5FC3_\u5929\u8D4B\u57F9\u8BAD.png"
+    21301152: "xz_\u57F9\u8BAD\u4E2D\u5FC3_\u7ECF\u9A8C\u57F9\u8BAD.png"
+    21301154: "xz_\u8D5E\u52A9\u4E2D\u5FC3_\u8D5E\u52A9\u5C0F\u4F19\u4F34.png"
+    21301156: "\u67E5\u770B\u8BE6\u60C5\u653E\u5927\u955C.png"
+    21301158: beijing1.png
+    21301160: "\u4E09\u7EA7\u9876\u6846.png"
+    21301162: "\u4E3B\u754C\u9762TOP.png"
+    21301164: "\u4E3B\u754C\u9762TOP\u7ECF\u9A8C\u5708.png"
+    21301166: "\u4E3B\u754C\u9762\u53F3\u4E0B\u4E3B\u6309\u94AE.png"
+    21301168: "\u4E3B\u754C\u9762\u53F3\u4E0B\u4E3B\u6309\u94AE-\u9009\u4E2D.png"
+    21301170: "\u4E3B\u754C\u9762\u53F3\u4E0B\u6309\u94AE.png"
+    21301172: "\u4E3B\u754C\u9762\u53F3\u4E0B\u6309\u94AE-\u9009\u4E2D.png"
+    21301174: "\u4E3B\u754C\u9762\u6309\u94AE-\u4EFB\u52A1.png"
+    21301176: "\u4E3B\u754C\u9762\u6309\u94AE-\u597D\u53CB.png"
+    21301178: "\u4E3B\u754C\u9762\u6309\u94AE-\u6D88\u606F.png"
+    21301180: "\u4E3B\u754C\u9762\u6309\u94AE-\u8BBE\u7F6E.png"
+    21301182: "\u4E3B\u754C\u9762\u6309\u94AE-\u90AE\u4EF6.png"
+    21301184: "\u4E3B\u754C\u9762\u7EC4\u4EF61.png"
+    21301186: "\u4E3B\u754C\u9762\u7EC4\u4EF62.png"
+    21301188: "\u4E3B\u754C\u9762\u7EC4\u4EF63.png"
+    21301190: "\u4E3B\u754C\u9762\u804A\u5929.png"
+    21301192: "\u4E8C\u7EA7\u4E0B\u6846.png"
+    21301194: "\u4E8C\u7EA7\u5F39\u7A97\u5DE6\u53F3\u4E24\u8FB9.png"
+    21301196: "\u4E8C\u7EA7\u65F6\u95F4\u6761.png"
+    21301198: "\u4E8C\u7EA7\u65F6\u95F4\u67612.png"
+    21301200: "\u4E8C\u7EA7\u65F6\u95F4\u6761\u5E95.png"
+    21301202: "\u4E8C\u7EA7\u65F6\u95F4\u6761\u5E952.png"
+    21301204: "\u4E8C\u7EA7\u6846.png"
+    21301206: "\u4E8C\u7EA7\u6846\u5E95\u90E8\u88C5\u9970.png"
+    21301208: "\u4E8C\u7EA7\u8FB9\u6846.png"
+    21301210: "\u4E8C\u7EA7\u9876\u6846.png"
+    21301212: "\u5185\u90E8\u68461.png"
+    21301214: "\u5185\u90E8\u68462.png"
+    21301216: "\u5185\u90E8\u68463.png"
+    21301218: "\u5185\u90E8\u6846-\u5916.png"
+    21301220: "\u5206\u754C\u7EBF\u68461.png"
+    21301222: "\u5207\u4EF6-\u5DE6\u8FB9\u5916\u6846.png"
+    21301224: "\u5207\u6362-\u672A\u9009\u4E2D.png"
+    21301226: "\u5207\u6362-\u9009\u4E2D.png"
+    21301228: "\u5217\u8868-\u6B63\u5E38.png"
+    21301230: "\u5217\u8868-\u9009\u4E2D.png"
+    21301232: "\u52A0\u53F7\u6309\u94AE.png"
+    21301234: "\u53E0\u52A0\u56FE\u6848-\u659C\u7EBF.png"
+    21301236: "\u53E0\u52A0\u56FE\u6848-\u70B9.png"
+    21301238: "\u5411\u4E0B\u7BAD\u5934.png"
+    21301240: "\u5708\u57081.png"
+    21301242: "\u57AB\u5E95\u5E95\u56FE1.png"
+    21301244: "\u5927\u6309\u94AE.png"
+    21301246: "\u5929\u68AF\u8D5B1.png"
+    21301248: "\u5929\u68AF\u8D5B2.png"
+    21301250: "\u5929\u68AF\u8D5B3.png"
+    21301252: "\u5929\u68AF\u8D5B4.png"
+    21301254: "\u5929\u68AF\u8D5B5.png"
+    21301256: "\u5929\u68AF\u8D5B6.png"
+    21301258: "\u5C0F\u6309\u94AE.png"
+    21301260: "\u62AC\u5934\u538B\u5E95.png"
+    21301262: "\u6309\u94AE-\u5173\u95ED.png"
+    21301264: "\u6309\u94AE\u53E0\u52A0\u5149\u6548-\u7EA2.png"
+    21301266: "\u6309\u94AE\u53E0\u52A0\u5149\u6548-\u7EFF.png"
+    21301268: "\u6309\u94AE\u53E0\u52A0\u5149\u6548-\u84DD.png"
+    21301270: "\u6309\u94AE-\u7EA2.png"
+    21301272: "\u6309\u94AE-\u7EFF.png"
+    21301274: "\u6309\u94AE-\u84DD.png"
+    21301276: "\u6761\u4EF6\u9009\u4E2D\u6846.png"
+    21301278: "\u7279\u6548-3.png"
+    21301280: "\u8054\u8D5B\u4FE1\u606F\u6846.png"
+    21301282: "\u89C4\u5219\u8BF4\u660E.png"
+    21301284: "\u8D27\u5E01\u5207\u6362\u6846.png"
+    21301286: "\u8F6C\u4F1A\u5207\u98751.png"
+    21301288: "\u8F6C\u4F1A\u5207\u98752.png"
+    21301290: "\u8F93\u5165\u6846\u65B0.png"
+    21301292: "\u9009\u9879\u6846\u672A\u9009\u4E2D.png"
+    21301294: "\u9009\u9879\u6846\u9009\u4E2D.png"
+    21301296: "\u901A\u7528\u7EBF.png"
+    21301298: "\u9053\u5177\u6570\u91CF\u6846.png"
+    21301300: "\u9053\u5177\u6570\u91CF\u6846\u9009\u4E2D.png"
+    21301302: "\u9053\u5177\u68461\u767D.png"
+    21301304: "\u9053\u5177\u68462\u7EFF.png"
+    21301306: "\u9053\u5177\u68463\u84DD.png"
+    21301308: "\u9053\u5177\u68464\u7D2B.png"
+    21301310: "\u9053\u5177\u68465\u9EC4.png"
+    21301312: "\u9053\u5177\u6846\u9009\u4E2D.png"
+    21301314: "2-\u52A0\u901F\u6309\u94AE.png"
+    21301316: "2-\u6309\u94AE\u6587\u5B57\u5E95.png"
+    21301318: "2-\u8DF3\u8FC7\u6309\u94AE.png"
+    21301320: "3-\u7EA2.png"
+    21301322: "3-\u84DD.png"
+    21301324: blue_1.png
+    21301326: blue_2.png
+    21301328: blue_3.png
+    21301330: red_1.png
+    21301332: red_2.png
+    21301334: red_3.png
+    21301336: "\u53E0\u52A0\u56FE\u6848-\u70B92.png"
+    21301338: top_1.png
+    21301340: "\u4E94\u8FB9\u5F62.png"
+    21301342: "\u5706\u5F62\u6309\u94AEX.png"
+    21301344: "\u5C0F\u6309\u94AEXX.png"
+    21301346: "\u9053\u5177\u68464\u9752.png"
+    21301348: "\u9053\u5177\u68466\u7D2B.png"
+    21301350: "\u9053\u5177\u68467\u6A59.png"
+    21301352: "\u9053\u5177\u68468\u7EA2.png"
+    21301354: blue_hp_1.png
+    21301356: blue_hp_2.png
+    21301358: blue_hp_3.png
+    21301360: jiahao.png
+    21301362: red_hp_1.png
+    21301364: red_hp_2.png
+    21301366: red_hp_3.png
+    21301368: "\u4E0B\u65B9.png"
+    21301370: "\u534A\u4E2A\u62AC\u5934.png"
+    21301372: "\u53F3\u4E0A\u586B\u5145.png"
+    21301374: "\u5C5E\u6027\u80CC\u666F-1.png"
+    21301376: "\u5C5E\u6027\u80CC\u666F-2.png"
+    21301378: "\u5C5E\u6027\u80CC\u666F-3.png"
+    21301380: "\u5C5E\u6027\u80CC\u666F-4.png"
+    21301382: "\u5C5E\u6027\u80CC\u666F-5.png"
+    21301384: "\u603B\u84DD\u6761.png"
+    21301386: "\u603B\u84DD\u67611.png"
+    21301388: "\u6280\u80FD\u6807\u8BC6.png"
+    21301390: "\u6309\u94AE1.png"
+    21301392: "\u6309\u94AE-\u788E\u7247.png"
+    21301394: "\u6309\u94AE-\u88C5\u5907\u2018.png"
+    21301396: "\u6309\u94AE-\u9053\u5177.png"
+    21301398: "\u661F\u7EA7-1.png"
+    21301400: "\u661F\u7EA7-2.png"
+    21301402: "\u661F\u7EA7-3.png"
+    21301404: "\u661F\u7EA7-4.png"
+    21301406: "\u661F\u7EA7-5.png"
+    21301408: "\u6B7B\u4EA1\u6807\u8BC6.png"
+    21301410: "\u7EA2\u8272\u65B9.png"
+    21301412: "\u84DD\u8272\u65B9.png"
+    21301414: "\u961F\u5458\u6837\u5F0F-\u6A59.png"
+    21301416: "\u961F\u5458\u6837\u5F0F-\u767D.png"
+    21301418: "\u961F\u5458\u6837\u5F0F-\u7D2B.png"
+    21301420: "\u961F\u5458\u6837\u5F0F-\u7EFF.png"
+    21301422: "\u961F\u5458\u6837\u5F0F-\u84DD.png"
+    21301424: "\u5E03\u9635\u5C5E\u6027\u5E95.png"
+    21301426: "\u5E03\u9635\u5E95.png"
+    21301428: "\u7EA2\u8272\u6309\u94AE.png"
+    21301430: "\u7EFF\u8272\u6309\u94AE.png"
+    21301432: "\u84DD\u8272\u6309\u94AE.png"
+    21301434: "\u961F\u5458\u4FE1\u606F\u53E0\u52A0\u5E95.png"
+    21301436: "\u961F\u5458\u4FE1\u606F\u62AC\u5934\u53E0\u5E95.png"
+    21301438: "\u961F\u5458\u4FE1\u606F\u754C\u9762\u5149\u6548.png"
+    21301440: "\u961F\u5458\u5217\u8868\u53E0\u52A0\u5E95.png"
+    21301442: "\u516D\u8FB9\u5F62.png"
+    21301444: "\u5217\u8868\u6846-\u672A\u9009\u4E2D.png"
+    21301446: "\u5217\u8868\u6846-\u9009\u4E2D.png"
+    21301448: "\u526F\u672C-\u6307\u5411\u4E2D\u5FC3.png"
+    21301450: "\u526F\u672C-\u6307\u5411\u7BAD\u5934.png"
+    21301452: "\u5929\u8D4B\u6811-\u540D\u5B57\u680F.png"
+    21301454: "\u5929\u8D4B\u6811-\u672A\u6FC0\u6D3B.png"
+    21301456: "\u5929\u8D4B\u6811-\u6FC0\u6D3B.png"
+    21301458: "\u5C0F\u7EA2\u70B9.png"
+    21301460: "\u79CD\u65CF-\u4EBA.png"
+    21301462: "\u79CD\u65CF-\u795E.png"
+    21301464: "\u79CD\u65CF-\u866B.png"
+    21301466: "\u6309\u94AE-\u503E\u659C.png"
+    21301468: "\u7B49\u7EA7-\u5165\u95E8.png"
+    21301470: "\u7B49\u7EA7-\u56F0\u96BE.png"
+    21301472: "\u7B49\u7EA7-\u5730\u72F1.png"
+    21301474: "\u7B49\u7EA7-\u5BB9\u6613.png"
+    21301476: "\u7B49\u7EA7-\u666E\u901A.png"
+    21301478: "\u7B49\u7EA7-\u7B80\u5355.png"
+    21301480: "\u5149\u5E951.png"
+    21301482: "\u5206\u754C2.png"
+    21301484: "\u54C1\u9636\u6B63\u5E38.png"
+    21301486: "\u54C1\u9636\u9AD8\u4EAE.png"
+    21301488: "\u79CD\u65CF\u5E951.png"
+    21301490: "\u7B49\u7EA7-\u4F20\u5947.png"
+    21301492: "\u7B49\u7EA7-\u53F2\u8BD7.png"
+    21301494: "\u7B49\u7EA7-\u795E\u8BDD.png"
+    21301496: "\u7B49\u7EA7-\u7CBE\u82F1.png"
+    21301498: "\u7B49\u7EA7-\u82F1\u96C4.png"
+    21301500: "\u7EA2\u82721.png"
+    21301502: "\u961F\u5458\u4FE1\u606FTIPS\u5E95.png"
+    21301504: "\u5217\u8868\u9009\u4E2D.png"
+    21301506: "\u56FE\u6807-\u540D\u6C14.png"
+    21301508: "\u56FE\u6807-\u6392\u884C.png"
+    21301510: "\u56FE\u6807-\u706B\u7BAD.png"
+    21301512: "\u56FE\u6807-\u793C\u7269.png"
+    21301514: "\u56FE\u6807-\u79EF\u5206.png"
+    21301516: "\u5DF2\u4E0A\u9635.png"
+    21301518: "\u6280\u80FD\u56FE\u6807_1_HP.png"
+    21301520: "\u6280\u80FD\u56FE\u6807_10_\u9632\u5B88\u80FD\u529B.png"
+    21301522: "\u6280\u80FD\u56FE\u6807_11_\u8FD0\u8425\u80FD\u529B.png"
+    21301524: "\u6280\u80FD\u56FE\u6807_12_\u4EBA\u5BF9\u866B\u51CF\u4F24.png"
+    21301526: "\u6280\u80FD\u56FE\u6807_13_\u4EBA\u5BF9\u866B\u52A0\u653B.png"
+    21301528: "\u6280\u80FD\u56FE\u6807_14_\u795E\u5BF9\u4EBA\u52A0\u653B.png"
+    21301530: "\u6280\u80FD\u56FE\u6807_15_\u795E\u5BF9\u4EBA\u51CF\u4F24.png"
+    21301532: "\u6280\u80FD\u56FE\u6807_16_\u866B\u5BF9\u795E\u51CF\u4F24.png"
+    21301534: "\u6280\u80FD\u56FE\u6807_17_\u866B\u5BF9\u795E\u52A0\u653B.png"
+    21301536: "\u6280\u80FD\u56FE\u6807_2_\u653B\u51FB.png"
+    21301538: "\u6280\u80FD\u56FE\u6807_3_\u547D\u4E2D.png"
+    21301540: "\u6280\u80FD\u56FE\u6807_4_\u66B4\u51FB.png"
+    21301542: "\u6280\u80FD\u56FE\u6807_5_\u66B4\u51FB\u4F24\u5BB3.png"
+    21301544: "\u6280\u80FD\u56FE\u6807_6_\u9632\u5FA1.png"
+    21301546: "\u6280\u80FD\u56FE\u6807_7_\u95EA\u907F.png"
+    21301548: "\u6280\u80FD\u56FE\u6807_8_\u6297\u66B4.png"
+    21301550: "\u6280\u80FD\u56FE\u6807_9_\u8FDB\u653B\u80FD\u529B.png"
+    21301552: "\u7279\u6B8A\u6309\u94AE-\u7EA2.png"
+    21301554: "\u7279\u6B8A\u6309\u94AE-\u84DD.png"
+    21301556: "\u7279\u6B8A\u6309\u94AE-\u9EC4.png"
+    21301558: "\u80CC\u5305\u9009\u4E2D.png"
+    21301560: QQ1.png
+    21301562: QQ3.png
+    21301564: QQ4.png
+    21301566: "\u4E00\u7EA7\u754C\u9762\u62AC\u5934-\u6700\u4E0A\u65B9.png"
+    21301568: "\u4E3B\u754C\u9762\u62AC\u5934-VIP\u5E95.png"
+    21301570: "\u4E3B\u754C\u9762\u62AC\u5934-\u538B\u5E95.png"
+    21301572: "\u4E3B\u754C\u9762\u62AC\u5934-\u8D44\u6E90\u5E95.png"
+    21301574: "\u4FA6\u67E5\u6309\u94AE.png"
+    21301576: "\u56FE\u9274-\u4EBA\u7269\u5E95.png"
+    21301578: "\u56FE\u9274-\u5F31\u5149\u6548\u5E95.png"
+    21301580: "\u56FE\u9274-\u6536\u96C6\u5EA6\u5E95.png"
+    21301582: "\u6309\u94AE\u56F4\u7740\u7684\u6846.png"
+    21301584: "\u653B\u51FB\u6309\u94AE.png"
+    21301586: "\u88C5\u9970\u6846x.png"
+    21301588: "\u8C03\u6574\u6309\u94AE.png"
+    21301590: "\u4E8C\u7EA7\u754C\u9762\u65B0\u5173\u95ED.png"
+    21301592: "\u4F53\u529B\u56FE\u6807.png"
+    21301594: "\u9009\u4E2D\u72B6\u6001.png"
+    21301596: "\u7ECF\u9A8CEXP\u56FE\u6807.png"
+    21301598: "\u7ECF\u9A8C\u6DFB\u52A0\u5F62\u72B61.png"
+    21301600: "\u7ECF\u9A8C\u6DFB\u52A0\u5F62\u72B62.png"
+    21301602: BUFF_1.png
+    21301604: BUFF_2.png
+    21301606: "PVE_\u5173\u5361\u53F3\u8FB9_BOSS.png"
+    21301608: "PVE_\u5173\u5361\u53F3\u8FB9_\u666E\u901A.png"
+    21301610: "PVE_\u5173\u5361\u5E95_BOSS.png"
+    21301612: "PVE_\u5173\u5361\u5E95_\u666E\u901A.png"
+    21301614: "\u6218\u6597\u529B\u4E0A\u5347.png"
+    21301616: "\u6218\u6597\u754C\u9762_HP.png"
+    21301618: "\u6218\u6597\u754C\u9762_MP.png"
+    21301620: "\u6218\u6597\u754C\u9762_\u4EBA\u7269\u6846\u5E95.png"
+    21301622: "\u6218\u6597\u754C\u9762_\u4EBA\u7269\u7F16\u53F7\u5E95.png"
+    21301624: "\u6218\u6597\u754C\u9762_\u81EA\u52A8_\u672A\u9009\u4E2D.png"
+    21301626: "\u6218\u6597\u754C\u9762_\u81EA\u52A8_\u9009\u4E2D.png"
+    21301628: "\u6311\u6218\u8D5B\u4F4D\u7F6E\u4E2D\u5FC3\u5E97.png"
+    21301630: "\u6311\u6218\u8D5B\u672A\u89E3\u9501\u5355\u72EC\u56FE.png"
+    21301632: "\u65E5\u5E38\u4EFB\u52A1\u56FE\u6807.png"
+    21301634: "\u6218\u6597\u529B\u4E0B\u964D.png"
+    21301636: "\u798F\u5229\u56FE\u6807.png"
+    21301638: "\u65B0\u7ADE\u6280\u573A1 (1).png"
+    21301640: "\u65B0\u7ADE\u6280\u573A1 (2).png"
+    21301642: "\u65B0\u7ADE\u6280\u573A1 (3).png"
+    21301644: "\u65B0\u7ADE\u6280\u573A1 (4).png"
+    21301646: "\u65B0\u7ADE\u6280\u573A1 (5).png"
+    21301648: "\u65B0\u7ADE\u6280\u573A1 (6).png"
+    21301650: "\u65B0\u7ADE\u6280\u573A1 (7).png"
+    21301652: "\u9635\u578B1.png"
+    21301654: "\u9635\u578B2.png"
+    21301656: "\u9635\u578B3.png"
+    21301658: "\u9635\u578B4.png"
+    21301660: "\u9635\u578B5.png"
+    21301662: "\u9635\u578B6.png"
+    21301664: "\u9635\u578B7.png"
+    21301666: "\u5927\u5E951\u5C42.png"
+    21301668: "\u5927\u5E952\u5C42.png"
+    21301670: "\u5927\u5E953\u5C42.png"
+    21301672: "\u6309\u94AE-\u5E95.png"
+    21301674: "\u6309\u94AE-\u8E22\u51FA.png"
+    21301676: "\u6309\u94AE-\u8F6C\u8BA9.png"
+    21301678: "\u6309\u94AE-\u9000\u51FA.png"
+    21301680: "\u6392\u884C.png"
+    21301682: "\u65B0\u624B\u6D3B\u52A8.png"
+    21301684: "\u9053\u5177.png"
+    21301686: "\u9996\u5145\u5956\u52B1.png"
+    21301688: "\u795E\u79D8\u5546\u5E97.png"
+    21301690: 818_1.png
+    21301692: 818_10.png
+    21301694: 818_11.png
+    21301696: 818_12.png
+    21301698: 818_13.png
+    21301700: 818_14.png
+    21301702: 818_15.png
+    21301704: 818_2.png
+    21301706: 818_3.png
+    21301708: 818_4.png
+    21301710: 818_5.png
+    21301712: 818_6.png
+    21301714: 818_7.png
+    21301716: 818_8.png
+    21301718: 818_9.png
+    21301720: 818_16.png
+    21301722: 818_4_2.png
+    21301724: planet0.png
+    21301726: planet1.png
+    21301728: planet2.png
+    21301730: planet3.png
+    21301732: planet4.png
+    21301734: planet5.png
+    21301736: planet6.png
+    21301738: planet7.png
+    21301740: planet8.png
+    21301742: planet9.png
+    21301744: 918_1.png
+    21301746: 918_2.png
+    21301748: 918_3.png
+    21301750: 918_4.png
+    21301752: 918_5.png
+    21301754: 918_6.png
+    21301756: 918_7.png
+    21301758: 918_8.png
+    21301760: 918_9.png
+    21301762: 918_10.png
+    21301764: "\u79CD\u65CF-\u4EBA1.png"
+    21301766: "\u79CD\u65CF-\u795E1.png"
+    21301768: "\u79CD\u65CF-\u866B1.png"
+    21301770: "\u901A\u75283.png"
+    21301772: "\u901A\u7528\u5149\u65482.png"
+    21301774: BUFF_greed_1.png
+    21301776: BUFF_greed_10.png
+    21301778: BUFF_greed_11.png
+    21301780: BUFF_greed_2.png
+    21301782: BUFF_greed_3.png
+    21301784: BUFF_greed_4.png
+    21301786: BUFF_greed_5.png
+    21301788: BUFF_greed_6.png
+    21301790: BUFF_greed_7.png
+    21301792: BUFF_greed_8.png
+    21301794: BUFF_greed_9.png
+    21301796: BUFF_red_1.png
+    21301798: BUFF_red_10.png
+    21301800: BUFF_red_11.png
+    21301802: BUFF_red_2.png
+    21301804: BUFF_red_3.png
+    21301806: BUFF_red_4.png
+    21301808: BUFF_red_5.png
+    21301810: BUFF_red_6.png
+    21301812: BUFF_red_7.png
+    21301814: BUFF_red_8.png
+    21301816: BUFF_red_9.png
+    21301818: j1.png
+    21301820: j2.png
+    21301822: j3.png
+    21301824: j4.png
+    21301826: "10-\u4E0A\u4E0B\u5E95.png"
+    21301828: "1-\u6309\u94AE.png"
+    21301830: "2-\u6309\u94AE.png"
+    21301832: "3-\u6309\u94AE.png"
+    21301834: "4-\u6E10\u53D8\u53E0\u52A0\u5E95.png"
+    21301836: "5-\u6E10\u53D8\u53E0\u52A0\u5E95.png"
+    21301838: "6-\u6587\u5B57\u8F93\u5165\u5E95.png"
+    21301840: "7-\u5E95.png"
+    21301842: "8-\u5305\u8FB9.png"
+    21301844: 9-logo.png
+    21301846: "1-\u5F00\u59CB\u6E38\u620F.png"
+    21301848: "1-\u6309\u94AE\u5E95.png"
+    21301850: "3-\u6309\u94AE\u5E95.png"
+    21301852: "3-\u8D26\u53F7\u7BA1\u7406.png"
+    21301854: Battle_HP_1.png
+    21301856: Battle_HP_Blue_1.png
+    21301858: Battle_HP_Blue_2.png
+    21301860: Battle_HP_Red_1.png
+    21301862: Battle_HP_Red_2.png
+    21301864: Battle_Top_1.png
+    21301866: Button_Bottom_1.png
+    21301868: Button_Bottom_2.png
+    21301870: Button_Bottom_3.png
+    21301872: Button_Bottom_4_ash.png
+    21301874: Button_Bottom_4_blue.png
+    21301876: Button_Bottom_4_greed.png
+    21301878: Button_Bottom_4_orange.png
+    21301880: Button_Bottom_4_red.png
+    21301882: Button_Bottom_5_ash.png
+    21301884: Button_Bottom_5_Check.png
+    21301886: Button_Bottom_5_Unchecked.png
+    21301888: Button_Bottom_MI.png
+    21301890: Button_Bottom_MI_1.png
+    21301892: Button_Bottom_MI_Check.png
+    21301894: Button_Content_1.png
+    21301896: Button_Content_10.png
+    21301898: Button_Content_11.png
+    21301900: Button_Content_12.png
+    21301902: Button_Content_13.png
+    21301904: Button_Content_14.png
+    21301906: Button_Content_15.png
+    21301908: Button_Content_16.png
+    21301910: Button_Content_17.png
+    21301912: Button_Content_18.png
+    21301914: Button_Content_19.png
+    21301916: Button_Content_2.png
+    21301918: Button_Content_20.png
+    21301920: Button_Content_21.png
+    21301922: Button_Content_22.png
+    21301924: Button_Content_23.png
+    21301926: Button_Content_24.png
+    21301928: Button_Content_25.png
+    21301930: Button_Content_26.png
+    21301932: Button_Content_27.png
+    21301934: Button_Content_28.png
+    21301936: Button_Content_29.png
+    21301938: Button_Content_3.png
+    21301940: Button_Content_30.png
+    21301942: Button_Content_31.png
+    21301944: Button_Content_32.png
+    21301946: Button_Content_33.png
+    21301948: Button_Content_34.png
+    21301950: Button_Content_35.png
+    21301952: Button_Content_36.png
+    21301954: Button_Content_37.png
+    21301956: Button_Content_38.png
+    21301958: Button_Content_39.png
+    21301960: Button_Content_4.png
+    21301962: Button_Content_40.png
+    21301964: Button_Content_5.png
+    21301966: Button_Content_6.png
+    21301968: Button_Content_7.png
+    21301970: Button_Content_8.png
+    21301972: Button_Content_9.png
+    21301974: Button_Overlag_1.png
+    21301976: Button_Overlag_2.png
+    21301978: Icon_Bottom_PropBox_1.png
+    21301980: Icon_Bottom_PropBox_2.png
+    21301982: Icon_Bottom_PropBox_3.png
+    21301984: Icon_Bottom_PropBox_4.png
+    21301986: Icon_Bottom_PropBox_5.png
+    21301988: Icon_Bottom_PropBox_6.png
+    21301990: Icon_Bottom_TeamBox_1.png
+    21301992: Icon_Bottom_TeamBox_2.png
+    21301994: Icon_Bottom_TeamBox_3.png
+    21301996: Icon_Bottom_TeamBox_4.png
+    21301998: Icon_Bottom_TeamBox_5.png
+    21302000: Icon_Flag_1.png
+    21302002: Icon_Flag_10.png
+    21302004: Icon_Flag_11.png
+    21302006: Icon_Flag_12.png
+    21302008: Icon_Flag_2.png
+    21302010: Icon_Flag_3.png
+    21302012: Icon_Flag_4.png
+    21302014: Icon_Flag_5.png
+    21302016: Icon_Flag_6.png
+    21302018: Icon_Flag_7.png
+    21302020: Icon_Flag_8.png
+    21302022: Icon_Flag_9.png
+    21302024: Icon_Logo_1.png
+    21302026: Icon_Quality_1.png
+    21302028: Icon_Quality_2.png
+    21302030: Icon_Quality_3.png
+    21302032: Icon_Quality_4.png
+    21302034: Icon_Race_1.png
+    21302036: Icon_Race_2.png
+    21302038: Icon_Race_3.png
+    21302040: Icon_Race_4.png
+    21302042: Icon_Race_5.png
+    21302044: Icon_Race_6.png
+    21302046: Icon_Resource_1.png
+    21302048: Icon_Resource_2.png
+    21302050: Icon_Resource_3.png
+    21302052: Icon_Resource_4.png
+    21302054: Icon_Star_1.png
+    21302056: Icon_Star_10.png
+    21302058: Icon_Star_2.png
+    21302060: Icon_Star_3.png
+    21302062: Icon_Star_4.png
+    21302064: Icon_Star_5.png
+    21302066: Icon_Star_6.png
+    21302068: Icon_Star_7.png
+    21302070: Icon_Star_8.png
+    21302072: Icon_Star_9.png
+    21302074: Icon_Talent_ 1.png
+    21302076: Icon_Talent_ 10.png
+    21302078: Icon_Talent_ 11.png
+    21302080: Icon_Talent_ 12.png
+    21302082: Icon_Talent_ 13.png
+    21302084: Icon_Talent_ 14.png
+    21302086: Icon_Talent_ 15.png
+    21302088: Icon_Talent_ 16.png
+    21302090: Icon_Talent_ 17.png
+    21302092: Icon_Talent_ 2.png
+    21302094: Icon_Talent_ 3.png
+    21302096: Icon_Talent_ 4.png
+    21302098: Icon_Talent_ 5.png
+    21302100: Icon_Talent_ 6.png
+    21302102: Icon_Talent_ 7.png
+    21302104: Icon_Talent_ 8.png
+    21302106: Icon_Talent_ 9.png
+    21302108: Mark_1.png
+    21302110: Mark_10.png
+    21302112: Mark_11.png
+    21302114: Mark_12.png
+    21302116: Mark_2.png
+    21302118: Mark_3.png
+    21302120: Mark_4.png
+    21302122: Mark_5.png
+    21302124: Mark_6.png
+    21302126: Mark_7.png
+    21302128: Mark_8.png
+    21302130: Mark_9.png
+    21302132: Mark_Close.png
+    21302134: Mark_Lock.png
+    21302136: Mark_Look.png
+    21302138: Name_Title_1.png
+    21302140: Name_Title_10.png
+    21302142: Name_Title_11.png
+    21302144: Name_Title_12.png
+    21302146: Name_Title_13.png
+    21302148: Name_Title_14.png
+    21302150: Name_Title_15.png
+    21302152: Name_Title_2.png
+    21302154: Name_Title_3.png
+    21302156: Name_Title_4.png
+    21302158: Name_Title_5.png
+    21302160: Name_Title_6.png
+    21302162: Name_Title_7.png
+    21302164: Name_Title_8.png
+    21302166: Name_Title_9.png
+    21302168: Name_Vip_0.png
+    21302170: Name_Vip_1.png
+    21302172: Name_Vip_10.png
+    21302174: Name_Vip_11.png
+    21302176: Name_Vip_12.png
+    21302178: Name_Vip_2.png
+    21302180: Name_Vip_3.png
+    21302182: Name_Vip_4.png
+    21302184: Name_Vip_5.png
+    21302186: Name_Vip_6.png
+    21302188: Name_Vip_7.png
+    21302190: Name_Vip_8.png
+    21302192: Name_Vip_9.png
+    21302194: Overlag_10.png
+    21302196: Overlag_11.png
+    21302198: Overlag_12.png
+    21302200: Overlag_2.png
+    21302202: Overlag_3.png
+    21302204: Overlag_4.png
+    21302206: Overlag_5.png
+    21302208: Overlag_6.png
+    21302210: Overlag_7.png
+    21302212: Overlag_8.png
+    21302214: Overlag_9.png
+    21302216: UIBox_1stI_Army_1.png
+    21302218: UIBox_1stI_Army_2.png
+    21302220: UIBox_2ndI_1.png
+    21302222: UIBox_2ndI_2.png
+    21302224: UIBox_2ndI_3.png
+    21302226: UIBox_2ndI_4.png
+    21302228: UIBox_Detail_1.png
+    21302230: UIBox_Detail_2.png
+    21302232: UIBox_ExpBox_1.png
+    21302234: UIBox_ExpBox_2.png
+    21302236: UIBox_Land_1.png
+    21302238: UIBox_Land_2.png
+    21302240: UIBox_Land_3.png
+    21302242: UIBox_MI_1.png
+    21302244: UIBox_MI_2.png
+    21302246: UIBox_MI_3.png
+    21302248: UIBox_MI_Button_1.png
+    21302250: UIBox_MI_Button_2.png
+    21302252: UIBox_MI_Button_3.png
+    21302254: UIBox_MI_Button_4.png
+    21302256: UIBox_MI_Button_5.png
+    21302258: UIBox_MI_Vip_1.png
+    21302260: UIBox_Small_1.png
+    21302262: UIBox_Small_10.png
+    21302264: UIBox_Small_11.png
+    21302266: UIBox_Small_12.png
+    21302268: UIBox_Small_2.png
+    21302270: UIBox_Small_3.png
+    21302272: UIBox_Small_4.png
+    21302274: UIBox_Small_5.png
+    21302276: UIBox_Small_6.png
+    21302278: UIBox_Small_7.png
+    21302280: UIBox_Small_8.png
+    21302282: UIBox_Small_9.png
+    21302284: UIBox_Small_lookbox.png
+    21302286: UIBox_Small_TextInputBox.png
+    21302288: UIBox_TalentBox_1.png
+    21302290: UIBox_TalentBox_2.png
+    21302292: UIBox_Top_1.png
+    21302294: UIBox_Top_2.png
+    21302296: UIBox_Top_3.png
+    21302298: Overlag_13.png
+    21302300: Overlag_14.png
+    21302302: Overlag_15.png
+    21302304: Overlag_16.png
+    21302306: Button_Content_41.png
+    21302308: Button_Content_42.png
+    21302310: Button_Content_43.png
+    21302312: Button_Content_44.png
+    21302314: Button_Content_45.png
+    21302316: Button_Content_46.png
+    21302318: Button_Content_47.png
+    21302320: Button_Content_48.png
+    21302322: Button_Content_49.png
+    21302324: 0.png
+    21302326: 10.png
+    21302328: 11.png
+    21302330: 12.png
+    21302332: 3.png
+    21302334: 4.png
+    21302336: 5.png
+    21302338: 6.png
+    21302340: 7.png
+    21302342: 8.png
+    21302344: 9.png
+    21302346: Button_Content_50.png
+    21302348: UIBox_Fight_1.png
+    21302350: UIBox_Fight_2.png
+    21302352: UIBox_Fight_3.png
+    21302354: UIBox_Fight_4.png
+    21302356: UIBox_Fight_5.png
+    21302358: UIBox_Fight_6.png
+    21302360: UIBox_Fight_7.png
+    21302362: Button_Content_51.png
+    21302364: Button_Content_52.png
+    21302366: Cup_1st.png
+    21302368: Cup_2nd.png
+    21302370: Cup_3rd.png
+    21302372: Cup_go.png
+    21302374: line_1.png
+    21302376: line_2.png
+    21302378: Mark_hand.png
+    21302380: Mark_PowerDown.png
+    21302382: Mark_PowerUp.png
+    21302384: Icon_Talent_1.png
+    21302386: Icon_Talent_10.png
+    21302388: Icon_Talent_11.png
+    21302390: Icon_Talent_12.png
+    21302392: Icon_Talent_13.png
+    21302394: Icon_Talent_14.png
+    21302396: Icon_Talent_15.png
+    21302398: Icon_Talent_16.png
+    21302400: Icon_Talent_17.png
+    21302402: Icon_Talent_2.png
+    21302404: Icon_Talent_3.png
+    21302406: Icon_Talent_4.png
+    21302408: Icon_Talent_5.png
+    21302410: Icon_Talent_6.png
+    21302412: Icon_Talent_7.png
+    21302414: Icon_Talent_8.png
+    21302416: Icon_Talent_9.png
+    21302418: Icon_Daily_1.png
+    21302420: Icon_Daily_10.png
+    21302422: Icon_Daily_2.png
+    21302424: Icon_Daily_3.png
+    21302426: Icon_Daily_4.png
+    21302428: Icon_Daily_5.png
+    21302430: Icon_Daily_6.png
+    21302432: Icon_Daily_7.png
+    21302434: Icon_Daily_8.png
+    21302436: Icon_Daily_9.png
+    21302438: BUFF_greed.png
+    21302440: BUFF_red.png
+    21302442: Name_Title_16.png
+    21302444: Icon_Star_11.png
+    21302446: Icon_Star_12.png
+    21302448: Icon_Star_13.png
+    21302450: Icon_Star_14.png
+    21302452: Icon_Star_15.png
+    21302454: Icon_Star_16.png
+    21302456: Icon_Star_17.png
+    21302458: Button_Bottom_MI_2.png
+    21302460: UIBox_MI_3_2.png
+    21302462: Button_Content_53.png
+    21302464: Button_Content_54.png
+    21302466: Refrain_0.png
+    21302468: Refrain_1.png
+    21302470: Refrain_2.png
+    21302472: Refrain_3.png
+    21302474: NPC_T_Forgg.png
+    21302476: vip.png
+    21302478: NPCsuipian.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UIBox_2ndI_3.png
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1826
+        width: 292
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 109, y: 71, z: 110, w: 70}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_6.png
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1954
+        width: 360
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_30.png
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1475
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 0.png
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1279
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1.png
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1283
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2.png
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1349
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 3.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1287
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1311
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 5.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1335
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 6.png
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1327
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 7.png
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1351
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 8.png
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1375
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 9.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1399
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 10.png
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1303
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 11.png
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1301
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 12.png
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1325
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Battle_HP_1.png
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1838
+        width: 7
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Battle_HP_Blue_1.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1646
+        width: 36
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 50, z: 0, w: 61}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Battle_HP_Blue_2.png
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1375
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Battle_HP_Red_1.png
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1649
+        width: 36
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 51, z: 0, w: 65}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Battle_HP_Red_2.png
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1417
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed.png
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1329
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_1.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1524
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_2.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1523
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_3.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1541
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_4.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1559
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_5.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1577
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_6.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1564
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_7.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1792
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_8.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1595
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_9.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1615
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_10.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1772
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_greed_11.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1544
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red.png
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1342
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_1.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1635
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_2.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_3.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_4.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_5.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1506
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_6.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1675
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_7.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1832
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_8.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1695
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_9.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1752
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_10.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1812
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BUFF_red_11.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1655
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_1.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1525
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_2.png
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1130
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 14, z: 16, w: 15}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_3.png
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_4_ash.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1750
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 11, z: 38, w: 11}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_4_blue.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1768
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 11, z: 39, w: 11}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_4_greed.png
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1792
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 11, z: 40, w: 11}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_4_orange.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1810
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 11, z: 37, w: 10}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_4_red.png
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1891
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 11, z: 38, w: 10}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_5_ash.png
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1226
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 10, z: 40, w: 9}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_5_Check.png
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1249
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 13, z: 42, w: 13}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_5_Unchecked.png
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1205
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 10, z: 39, w: 9}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_MI.png
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1151
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 7, z: 8, w: 7}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_MI_1.png
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1227
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 19, z: 36, w: 45}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_MI_2.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1584
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 0, z: 10, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Bottom_MI_Check.png
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1369
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_1.png
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1192
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_2.png
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1165
+        width: 83
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_3.png
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1333
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_4.png
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1427
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_5.png
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1374
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_6.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1862
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_7.png
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1338
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_8.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 957
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_9.png
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1061
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_10.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 926
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_11.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1499
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_12.png
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1046
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_13.png
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1350
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_14.png
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1883
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_15.png
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1159
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_16.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1631
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_17.png
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1475
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_18.png
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1092
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_19.png
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1503
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_20.png
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1072
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_21.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1531
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_22.png
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1884
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_23.png
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1093
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_24.png
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1349
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_25.png
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1114
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_26.png
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1135
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_27.png
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1028
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_28.png
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1168
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_29.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1684
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_31.png
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1197
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_32.png
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1383
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_33.png
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1489
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_34.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1035
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_35.png
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1239
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_36.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 891
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_37.png
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_38.png
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1398
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_39.png
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1504
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_40.png
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1419
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_41.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1271
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_42.png
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1288
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_43.png
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1490
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_44.png
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1325
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_45.png
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1617
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_46.png
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1331
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_47.png
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1304
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_48.png
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1457
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_49.png
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1119
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_50.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 860
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_51.png
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 911
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_52.png
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1376
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_53.png
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1110
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Content_54.png
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1427
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Overlag_1.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1852
+        width: 180
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Button_Overlag_2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1894
+        width: 240
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cup_1st.png
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1180
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cup_2nd.png
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1220
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cup_3rd.png
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1908
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cup_go.png
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1064
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "d_\u5173\u95ED.png"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1016
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "d_\u6253\u5F00.png"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1057
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-01.png
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 943
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-02.png
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 943
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-03.png
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1182
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-04.png
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1104
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-05.png
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1065
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-06.png
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 933
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-07.png
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1262
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-08.png
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1380
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-09.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1501
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-10.png
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1221
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-11.png
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1111
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-12.png
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1176
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-13.png
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 974
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-14.png
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1430
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-15.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1713
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-16.png
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1187
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-17.png
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1381
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-18.png
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 974
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-19.png
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1245
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-20.png
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1167
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-21.png
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1054
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-22.png
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1292
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-23.png
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 970
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-24.png
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 986
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-25.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 963
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-26.png
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 986
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-27.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 988
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-28.png
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 997
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-29.png
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1307
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-30.png
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 937
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-31.png
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1011
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-32.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1010
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-33.png
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1189
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-34.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1548
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-35.png
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1263
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-36.png
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1201
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-37.png
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1066
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-38.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1597
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-39.png
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1378
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-40.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1625
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-41.png
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1013
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-42.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1456
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-43.png
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1040
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-44.png
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1243
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-45.png
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1068
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-46.png
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1072
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-47.png
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1096
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-48.png
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1023
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-49.png
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1119
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-50.png
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1124
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-51.png
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1158
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-52.png
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1286
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-53.png
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1080
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-54.png
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1420
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-55.png
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1823
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-56.png
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1206
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-57.png
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1182
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-58.png
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1089
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-59.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1676
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-60.png
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1148
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-61.png
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1139
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-62.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1220
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: E-63.png
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1381
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_PropBox_1.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1017
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_PropBox_2.png
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1101
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_PropBox_3.png
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1270
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_PropBox_4.png
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1267
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_PropBox_5.png
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1297
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_PropBox_6.png
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_TeamBox_1.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1078
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_TeamBox_2.png
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1539
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_TeamBox_3.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1156
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_TeamBox_4.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1234
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Bottom_TeamBox_5.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1312
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 690
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 792
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_3.png
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 853
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_4.png
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 864
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_5.png
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 955
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_6.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 963
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_7.png
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1001
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_8.png
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1103
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_9.png
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1115
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Daily_10.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 758
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_1.png
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1109
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_2.png
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1337
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_3.png
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1533
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_4.png
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1440
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_5.png
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1467
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_6.png
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1525
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_7.png
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1533
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_8.png
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1327
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_9.png
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1752
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_10.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1187
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_11.png
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1205
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Flag_12.png
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1319
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Logo_1.png
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1513
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Quality_1.png
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1459
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Quality_2.png
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1526
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Quality_3.png
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1542
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Quality_4.png
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1589
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Race_1.png
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1065
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Race_2.png
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1083
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Race_3.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 894
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Race_4.png
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1154
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Race_5.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1577
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Race_6.png
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1029
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Resource_1.png
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1199
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Resource_2.png
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1217
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Resource_3.png
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1955
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Resource_4.png
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1461
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_1.png
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1449
+        width: 151
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_2.png
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1347
+        width: 153
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_3.png
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1482
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_4.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1613
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_5.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1223
+        width: 153
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_6.png
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1637
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_7.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1309
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_8.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1501
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_9.png
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1462
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_10.png
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1604
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_11.png
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1703
+        width: 153
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_12.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1746
+        width: 153
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_13.png
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1609
+        width: 153
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_14.png
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1714
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_15.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1346
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_16.png
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1625
+        width: 153
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Star_17.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1068
+        width: 147
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_1.png
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 863
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_2.png
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1568
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_3.png
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1396
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_4.png
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1669
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_5.png
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1211
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_6.png
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1883
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_7.png
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1234
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_8.png
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1232
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_9.png
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1099
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_10.png
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1779
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_11.png
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1726
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_12.png
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1546
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_13.png
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1246
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_14.png
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 934
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_15.png
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1140
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_16.png
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1119
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Icon_Talent_17.png
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1151
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: line_1.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1559
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 11, z: 0, w: 12}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: line_2.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1593
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 11, z: 0, w: 12}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_1.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1481
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_2.png
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1311
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_3.png
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1840
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 12, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_4.png
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1218
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 16, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_5.png
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1466
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_6.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1735
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_7.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1506
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_8.png
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1005
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_9.png
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1094
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_10.png
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1715
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_11.png
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1356
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 5, z: 6, w: 5}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_12.png
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1133
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_Close.png
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1947
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_hand.png
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1757
+        width: 176
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_Lock.png
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1056
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_Look.png
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1448
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_PowerDown.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1843
+        width: 200
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mark_PowerUp.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1792
+        width: 199
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_1.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1423
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_2.png
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1395
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_3.png
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1497
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_4.png
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1404
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_5.png
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1431
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_6.png
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1497
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_7.png
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1531
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_8.png
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1567
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_9.png
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1435
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_10.png
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1461
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_11.png
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1461
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_12.png
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1301
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_13.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1459
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_14.png
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1368
+        width: 105
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_15.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1495
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Name_Title_16.png
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1489
+        width: 109
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_2.png
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1980
+        width: 357
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_3.png
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_4.png
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1885
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_5.png
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1426
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_7.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1497
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_8.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1656
+        width: 155
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_9.png
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1498
+        width: 139
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_10.png
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1845
+        width: 157
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_11.png
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1282
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_12.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1447
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_13.png
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1869
+        width: 265
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_14.png
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1869
+        width: 265
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_15.png
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1192
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Overlag_16.png
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1374
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Refrain_0.png
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1562
+        width: 145
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Refrain_1.png
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1069
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Refrain_2.png
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1466
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Refrain_3.png
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1297
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_1stI_Army_1.png
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1647
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 0, z: 31, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_1stI_Army_2.png
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1874
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_2ndI_1.png
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1471
+        width: 109
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 49, y: 0, z: 51, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_2ndI_2.png
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1823
+        width: 282
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 126, y: 0, z: 125, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_2ndI_4.png
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1655
+        width: 265
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 104, y: 42, z: 104, w: 117}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Detail_1.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1731
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 8, z: 9, w: 13}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Detail_2.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1458
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_ExpBox_1.png
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1485
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 3, z: 4, w: 3}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_ExpBox_2.png
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1938
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_1.png
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1756
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_2.png
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1231
+        width: 148
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_3.png
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1882
+        width: 288
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 107, y: 0, z: 139, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_4.png
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1853
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 21, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_5.png
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1441
+        width: 124
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_6.png
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 973
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 9, z: 10, w: 10}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Fight_7.png
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1984
+        width: 416
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Land_1.png
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1838
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Land_2.png
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1627
+        width: 16
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 0, z: 7, w: 6}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Land_3.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1914
+        width: 213
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 14, z: 205, w: 2}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1933
+        width: 629
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_2.png
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1834
+        width: 201
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 160, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_3.png
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1690
+        width: 165
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 88, y: 0, z: 73, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_3_2.png
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1603
+        width: 160
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 89, y: 0, z: 68, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_Button_1.png
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1795
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_Button_2.png
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1123
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_Button_3.png
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1214
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_Button_4.png
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1253
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_Button_5.png
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1672
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_MI_Vip_1.png
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1763
+        width: 161
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_1.png
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1628
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_2.png
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1164
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 19, z: 18, w: 18}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_3.png
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1134
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_4.png
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1134
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 7, z: 7, w: 7}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_5.png
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1156
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 13, z: 14, w: 14}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_6.png
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1179
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_7.png
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1208
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 27, z: 27, w: 27}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_8.png
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1223
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 26, z: 26, w: 27}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_9.png
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1137
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 19, z: 19, w: 19}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_10.png
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 931
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 19, z: 19, w: 19}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_11.png
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 931
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_12.png
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1116
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 17, z: 17, w: 17}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_lookbox.png
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1792
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Small_TextInputBox.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1657
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 12, z: 11, w: 12}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_TalentBox_1.png
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1272
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_TalentBox_2.png
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1359
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Top_1.png
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1946
+        width: 545
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 338, y: 0, z: 158, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Top_2.png
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1390
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIBox_Top_3.png
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1951
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: vip.png
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1365
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: NPCsuipian.png
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

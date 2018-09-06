@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application>
+  <platform current ="test1" version="1.0.0.0"/>
+  <platform_jodo channel="jodo" url="http://jodoplay.${version}.sanguo.geniusbaby.com"/>
+  <platform_test channel="publictest" url="http://112.74.164.34:12347" udp="112.74.164.34:60903" update="http://112.74.164.34:30001/up/" notice="http://www.baidu.com"/>
+  <platform_test1 channel="publictest" url="http://127.0.0.1:12347" udp="127.0.0.1:60903" update="http://127.0.0.1:30000/up/" notice="http://www.baidu.com"/>
+
+  <net keepAlive="50000"/> 
+  <debug debugMode="true" script="false" guideUseDebug="true" guideDebugStep="10000"/>
+
+  <manifest cfg="cfg" art="gbfish" lgap="gcpInfo"/>
+  <asset>
+    <fish
+      anim="Fish/Animation/"
+      model="Fish/Model/"
+      material="Fish/Material/"
+      prefab="Fish/Prefab/"
+      texture="Fish/Texture/">
+    </fish>
+    <alphabet
+      anim="Alphabet/Animation/"
+      model="Alphabet/Model/"
+      material="Alphabet/Material/"
+      prefab="Alphabet/Prefab/"
+      texture="Alphabet/Texture/">
+    </alphabet>
+    <pet
+      anim="Pet/Animation/"
+      model="Pet/Model/"
+      material="Pet/Material/"
+      prefab="Pet/Prefab/"
+      texture="Pet/Texture/">
+    </pet>
+    <gun
+      anim="Gun/Animation/"
+      model="Gun/Model/"
+      material="Gun/Material/"
+      prefab="Gun/Prefab/"
+      texture="Gun/Texture/">
+     </gun>
+    <bullet 
+      anim="Bullet/Animation/"
+      model="Bullet/Model/"
+      material="Bullet/Material/"
+      prefab="Bullet/Prefab/"
+      texture="Bullet/Texture/">
+     </bullet>
+    <ui frame="UI/Layout/" panel="UI/Panel/"/>
+
+    <fxUI path ="Effect2/UI/Prefab/"/>    
+    <fx3D path ="Fx/Attack/"/>
+    <fxAnim path ="Fx/Display/"/>
+    <terrain path="Terrain/"/>
+    <audio path="Audio/Sound/"/>
+    <font path="Font/" />
+    <background path="BackGround/" />
+    <sprite path="UISprites,FishUI/fish,FishUI/towerUI,FishUI/ch,FishUI/egg,FishUI/pet,FishUI/skill,FishUI/res,FishUI/title,FishUI/map"/>
+  </asset>
+  
+  <audio>
+    <version music="背景乐_01"/>
+    <login music="背景乐_03"/>
+    <main music="背景乐_02"/>
+    <combat music="背景乐_04"/>
+    <combatVictor music="《电竞经理ol-胜利》final"/>
+    <combatDefeat music="《电竞经理ol-失败》final"/>
+    <scenario music="《电竞经理ol-城市》final"/>
+
+    <clickBuilding sound="点击建筑"/>
+    <closeBuilding sound="关闭建筑"/>
+    <upgradeBuilding sound="建筑升级"/>
+    <clickButton sound="按钮音效"/>
+  </audio>
+</application>

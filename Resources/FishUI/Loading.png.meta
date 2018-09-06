@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 56e9bf1a0023e98498cccb0f19542bca
+timeCreated: 1505134569
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BY_loading_btn_denglu_N.png
+    21300002: BY_loading_btn_denglu_P.png
+    21300004: BY_loading_btn_jizhuzhanghao_N.png
+    21300006: BY_loading_btn_jizhuzhanghao_P.png
+    21300008: BY_loading_btn_zhucezhanghao_N.png
+    21300010: BY_loading_btn_zhucezhanghao_P.png
+    21300012: BY_loading_chilun_di.png
+    21300014: BY_loading_chilun1.png
+    21300016: BY_loading_chilun2.png
+    21300018: BY_loading_chilun3.png
+    21300020: BY_loading_chilun4.png
+    21300022: BY_loading_denglu.png
+    21300024: BY_loading_denglu_guang.png
+    21300026: BY_loading_denglu_guang1.png
+    21300028: BY_loading_denglu_zhaozi.png
+    21300030: BY_loading_guandao1.png
+    21300032: BY_loading_guandao2.png
+    21300034: BY_loading_guandao3.png
+    21300036: BY_loading_guang.png
+    21300038: BY_loading_huoguang.png
+    21300040: BY_loading_logo.png
+    21300042: BY_loading_shurukuang.png
+    21300044: BY_loading_suo.png
+    21300046: BY_loading_suo_cuowu.png
+    21300048: BY_loading_suo_cuowu1.png
+    21300050: BY_loading_suo_dengdai.png
+    21300052: BY_loading_suo_dengdai1.png
+    21300054: BY_loading_suo_zhaozi.png
+    21300056: BY_loading_suo_zhengque.png
+    21300058: BY_loading_suo_zhengque1.png
+    21300060: BY_loading_zhezhao.png
+    21300062: BY_loading_zhuce.png
+    21300064: BY_loading_zhuce_btn_fanhui_N.png
+    21300066: BY_loading_zhuce_btn_fanhui_P.png
+    21300068: BY_loading_zhuce_btn_zhuce_N.png
+    21300070: BY_loading_zhuce_btn_zhuce_P.png
+    21300072: BY_loading_zhuce_chongfumima.png
+    21300074: BY_loading_zhuce_mima.png
+    21300076: BY_loading_zhuce_shurukuang.png
+    21300078: BY_loading_zhuce_youxiang.png
+    21300080: BY_loading_zhuce_zhanghao.png
+    21300082: BY_loading_zhuce_zhucezhanghao.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BY_loading_btn_denglu_N.png
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 487
+        width: 204
+        height: 91
+      alignment: 0
+      pivot: {x: 102, y: 45.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_btn_denglu_P.png
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 536
+        width: 204
+        height: 91
+      alignment: 0
+      pivot: {x: 102, y: 45.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_btn_jizhuzhanghao_N.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 468
+        width: 121
+        height: 30
+      alignment: 0
+      pivot: {x: 60.5, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_btn_jizhuzhanghao_P.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 500
+        width: 121
+        height: 30
+      alignment: 0
+      pivot: {x: 60.5, y: 15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_btn_zhucezhanghao_N.png
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 119
+        width: 105
+        height: 31
+      alignment: 0
+      pivot: {x: 52.5, y: 15.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_btn_zhucezhanghao_P.png
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 119
+        width: 105
+        height: 31
+      alignment: 0
+      pivot: {x: 52.5, y: 15.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_chilun_di.png
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 843
+        width: 276
+        height: 276
+      alignment: 0
+      pivot: {x: 138, y: 138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_chilun1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 850
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 108.5, y: 106.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_chilun2.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 376
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 56.5, y: 56.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_chilun3.png
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 713
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 63.5, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_chilun4.png
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 575
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 45, y: 45.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_denglu.png
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 398
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 53.5, y: 34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_denglu_guang.png
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 264
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 54.5, y: 55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_denglu_guang1.png
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 152
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 54.5, y: 55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_denglu_zhaozi.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 264
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 55.5, y: 55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_guandao1.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 160
+        height: 581
+      alignment: 0
+      pivot: {x: 80, y: 290.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_guandao2.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 247
+        height: 154
+      alignment: 0
+      pivot: {x: 123.5, y: 77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_guandao3.png
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1560
+        width: 300
+        height: 178
+      alignment: 0
+      pivot: {x: 150, y: 89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_guang.png
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 668
+        width: 379
+        height: 395
+      alignment: 0
+      pivot: {x: 189.5, y: 197.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_huoguang.png
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1740
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 153, y: 153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_logo.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1683
+        width: 697
+        height: 363
+      alignment: 0
+      pivot: {x: 348.5, y: 181.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_shurukuang.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 760
+        width: 265
+        height: 81
+      alignment: 0
+      pivot: {x: 132.5, y: 40.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo.png
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1399
+        width: 350
+        height: 159
+      alignment: 0
+      pivot: {x: 175, y: 79.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_cuowu.png
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 14
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 52, y: 51.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_cuowu1.png
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1282
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 35, y: 18.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_dengdai.png
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 159
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 52, y: 51.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_dengdai1.png
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1321
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 36, y: 18.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_zhaozi.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 50, y: 49.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_zhengque.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 14
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 52, y: 51.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_suo_zhengque1.png
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1360
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 36, y: 18.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhezhao.png
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1121
+        width: 276
+        height: 276
+      alignment: 0
+      pivot: {x: 138, y: 138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1065
+        width: 667
+        height: 616
+      alignment: 0
+      pivot: {x: 333.5, y: 308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_btn_fanhui_N.png
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 580
+        width: 222
+        height: 78
+      alignment: 0
+      pivot: {x: 111, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_btn_fanhui_P.png
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 660
+        width: 244
+        height: 98
+      alignment: 0
+      pivot: {x: 122, y: 49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_btn_zhuce_N.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 588
+        width: 222
+        height: 78
+      alignment: 0
+      pivot: {x: 111, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_btn_zhuce_P.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 244
+        height: 98
+      alignment: 0
+      pivot: {x: 122, y: 49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_chongfumima.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 491
+        width: 164
+        height: 40
+      alignment: 0
+      pivot: {x: 82, y: 20}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_mima.png
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 533
+        width: 164
+        height: 40
+      alignment: 0
+      pivot: {x: 82, y: 20}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_shurukuang.png
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 387
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 52, y: 39.5}
+      border: {x: 40, y: 0, z: 40, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_youxiang.png
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 629
+        width: 164
+        height: 40
+      alignment: 0
+      pivot: {x: 82, y: 20}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_zhanghao.png
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 671
+        width: 164
+        height: 40
+      alignment: 0
+      pivot: {x: 82, y: 20}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BY_loading_zhuce_zhucezhanghao.png
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 532
+        width: 220
+        height: 54
+      alignment: 0
+      pivot: {x: 110, y: 27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
